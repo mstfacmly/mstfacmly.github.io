@@ -5,4 +5,8 @@
 * 2D/3D artist
 * Game Designer
 * Writer
-* Lead Lunatic at [Studios LU/NE](studioslune.com)
+* Founter & Lead Lunatic at [Studios LU/NE](studioslune.com)
+
+---
+
+
