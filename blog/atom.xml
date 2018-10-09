@@ -16,7 +16,7 @@ feed
 
 	{% for post in site.posts %}
 		<entry>
-			<titel>{{ post.title }} </title>
+			<tite>{{ post.title }} </title>
 			<link href="https://mstfacmly.github.io{{ post.url }}"/>
 			<updated>{{ post.date | date_to_xmlschema }} </updated>
 			<id>https://mstfacmly.github.io{{ post.id}}</id>
