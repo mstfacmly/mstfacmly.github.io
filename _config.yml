@@ -9,6 +9,7 @@ twitter: "@mstfacmly"
 github:
         user: mstfacmly
         repo: github.com/mstfacmly
+gravatar: 053189a14b858da5286971d47897ca68
 
 #remote-theme: fongandrew/hydeout
 permalink: pretty #/blog/:year/:month/:day/:title
