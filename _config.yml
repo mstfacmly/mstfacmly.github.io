@@ -4,4 +4,4 @@ permalink: /blog/:year/:month/:day/:title
 plugins:
         - jekyll-sitemap
 
-remote-theme: https://github.com/fongandrew/hydeout
+remote-theme: fongandrew/hydeout
