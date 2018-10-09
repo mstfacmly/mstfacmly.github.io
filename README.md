@@ -1,6 +1,6 @@
 # mstfa cmly
 
-![Me](https://s.gravatar.com/avatar/{{ site.gravatar }}?s=80)
+![Me](https://www.gravatar.com/avatar/{{ site.gravatar }})
 
 * 2D/3D artist
 * Game Designer
