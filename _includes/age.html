@@ -3,4 +3,4 @@
 {% assign ageSecs = nowSecs | minus: birthdaySecs %}
 {% assign age = ageSecs | divided_by: 60 | divided_by: 60 | divided_by: 24 | divided_by: 360 %}
 
-{{ age }}
+{{ age | floor }}
