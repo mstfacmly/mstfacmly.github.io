@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mstfa cmly's New Personal Site"
+title: "New Personal Site"
 date: 2018-10-09
 ---
 
