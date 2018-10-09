@@ -1,39 +1,11 @@
 <!DOCTYPE html>
 <html>
-	<!--head>
-		<title>{{ page.title }}</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-		<link rel="stylesheet" href="https://github.com/bBoxType/FiraGO/blob/master/Fonts/FiraGO_WEB_1001/Roman/FiraGO-Regular.woff">
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Sans|Noto+Sans"> 
-	</head-->
 	{% include header.html %}
 	<body>
-		<!--nav>
-		<ul>
-			<li><a href="/">Home</a></li>
-			<li><a href="/about">About</a></li>
-			<li><a href="/resume">Resumé</a></li>
-			<li><a href="/blog">Blog</a></li>
-		</ul>
-		</nav-->
 		{% include nav.html %}
 		<div class="container">
-
 			{{ content }}
-
 		</div><!-- /.container-->
-
 		{% include footer.html %}
-
-<!--		<footer>
-		<ul>
-			<li><a href="mailto:mstfacmly@studioslune.com">Email</a></li>
-			<li><a href="https://github.com/mstfacmly">GitHub</a></li>
-			<li><a href="https://twitter.com/mstfacmly">Twitter</a></li>
-			<li><a href="https://patreon.com/mstfacmly">Patreon</a></li>
-			<li><a href="https://mstfacmly.github.io/blog/atom.xml">RSS feed</a></li>
-		</ul>
-		</footer-->
 	</body>
 </html>
