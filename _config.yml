@@ -1,3 +1,5 @@
 name: mstfa cmly - Game Designer
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+plugins:
+        - jekyll-sitemap
