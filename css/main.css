@@ -1,9 +1,16 @@
+{
+	display: block;
+	overflow: auto;
+}
+
 body {
 	margin: 60px auto;
 	width: 70%;
+	color: #ddd;
+	background-color: #525252;
 }
 nav ul, footer ul {
-	font-family:'FiraGO', 'Fira Sans', 'Noto Sans', 'Helvetica', 'Sans-Serif';
+	font-family:'FiraGO', 'Noto Sans', 'Sans-Serif';
 	padding: 0px;
 	list-style: none;
 	font-weight: bold;
@@ -21,17 +28,17 @@ a:hover {
 }
 h1 {
 	font-size: 3em;
-	font-family:'FiraGO', 'Fira Sans', 'Noto Sans', 'Helvetica', 'Sans-Serif';
+	font-family:'FiraGO', 'Noto Sans', 'Sans-Serif';
 	color: #ddd;
 }
 h2 {
 	font-size: 2em;
-	font-family:'FiraGO', 'Fira Sans', 'Noto Sans', 'Helvetica', 'Sans-Serif';
+	font-family:'FiraGO', 'Noto Sans', 'Sans-Serif';
 	color: #ddd;
 }
 h3 {
 	font-size: 1em;
-	font-family:'FiraGO', 'Fira Sans', 'Noto Sans', 'Helvetica', 'Sans-Serif';
+	font-family:'FiraGO', 'Noto Sans', 'Sans-Serif';
 	color: #ddd;
 }
 p {
@@ -55,8 +62,5 @@ ul.posts li {
 
 .img-circle {
 	border-radius: 50%;
-}
-body{
-	color: #ddd;
-	background-color: #525252;
+	vertical-align: middle;
 }
