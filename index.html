@@ -2,13 +2,15 @@
 layout: default
 title: السلام عليكم
 ---
-	<div class="blurb">
-		{{ page.README }} 
-		<h1><img class="img-circle" src="https://gravatar.com/avatar/{{ site.gravatar}}">mstfa cmly, {% include age.html %}</h1>
-		<p>2D/3D Artist
-		<p>Animator
-		<p>Game Designer
-		<p>Writer
-		<!--p>Lead Lunatic @ <a href="https://studioslune.com">Studios LU/NE</a-->
-		</h1>
-	</div><!-- /.blurb-->
+	<div class="container">
+		<h1><img class="img-circle" src="https://gravatar.com/avatar/{{ site.gravatar}}">مصطفى شملي , {% include age.html %}</h1>
+		{{ README.md }} 
+		<div>
+		  <p>2D/3D Artist
+		  <p>Animator
+		  <p>Game Designer
+		  <p>Writer
+		  <p><a href="/about">More</a>
+		  <p>Lead Lunatic @ <a href="https://studioslune.com">Studios LU/NE</a>
+		</div>
+	</div><!-- /.blurb>

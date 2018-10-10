@@ -1,3 +1,7 @@
+---
+layout: default
+title: Résumé
+---
 ## Games
 * [Sig: the City Between](genesisoflegend.com/products/sig) - Interior Artwork
 * [The Other Room](minorityvr.com) - Game and Narrative Consultant
