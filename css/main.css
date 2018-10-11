@@ -28,22 +28,22 @@ a:hover {
 }
 h1 {
 	font-size: 3em;
-	font-family:'FiraGO Thin', 'Noto Sans', 'Sans-Serif';
+	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';
 	color: #ddd;
 }
 h2 {
 	font-size: 2em;
-	font-family:'FiraGO Thin', 'Noto Sans', 'Sans-Serif';
+	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';
 	color: #ddd;
 }
 h3 {
 	font-size: 1em;
-	font-family:'FiraGO Thin', 'Noto Sans', 'Sans-Serif';
+	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';
 	color: #ddd;
 }
 p {
-	font-size: 1.5em;
-	line-height: 1.4em;
+	font-size: 1.42em;
+	line-height: 1.21em;
 	color: #999;
 }
 footer {
@@ -51,9 +51,14 @@ footer {
 	font-size: .8em;
 }
 
+body ul {
+	font-size: 1.01em;
+	line-height: 1.64rem;
+}
+
 ul.posts {
 	margin: 20px auto 40px;
-	font-size: 1.5em;
+	font-size: 1.21em;
 }
 
 ul.posts li {
