@@ -10,10 +10,10 @@ body {
 	background-color: #525252;
 }
 nav ul, footer ul {
-	font-family:'FiraGO', 'Noto Sans', 'Sans-Serif';
+	font-family:'FiraGO Thin', 'Noto Sans', 'Sans-Serif';
+	font-weight: bold;
 	padding: 0px;
 	list-style: none;
-	font-weight: bold;
 }
 nav ul li, footer ul li {
 	display: inline;
@@ -24,21 +24,21 @@ a {
 	color: #999;
 }
 a:hover {
-	text-decoration: underline;
+	color: #fec356;
 }
 h1 {
 	font-size: 3em;
-	font-family:'FiraGO', 'Noto Sans', 'Sans-Serif';
+	font-family:'FiraGO Thin', 'Noto Sans', 'Sans-Serif';
 	color: #ddd;
 }
 h2 {
 	font-size: 2em;
-	font-family:'FiraGO', 'Noto Sans', 'Sans-Serif';
+	font-family:'FiraGO Thin', 'Noto Sans', 'Sans-Serif';
 	color: #ddd;
 }
 h3 {
 	font-size: 1em;
-	font-family:'FiraGO', 'Noto Sans', 'Sans-Serif';
+	font-family:'FiraGO Thin', 'Noto Sans', 'Sans-Serif';
 	color: #ddd;
 }
 p {
@@ -58,6 +58,14 @@ ul.posts {
 
 ul.posts li {
 	list-style:none;
+}
+
+img {
+	border-radius:50%;
+	height:80px;
+	margin: 0 auto;
+	width: 80px;
+	vertical-align: middle;
 }
 
 .img-circle {
