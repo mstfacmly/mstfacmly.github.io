@@ -1,10 +1,16 @@
-# mstfa cmly
-
-![Me](https://www.gravatar.com/avatar/{{ site.gravatar }})
-
+---
+layout: default
+title: السلام عليكم
 ---
 
-* 2D/3D artist
-* Game Designer
-* Writer
-* Founter & Lead Lunatic at [Studios LU/NE](studioslune.com)
+# ![Me](https://gravatar.com/avatar/{{ site.gravatar }})مصطفى شملي
+
+[2D/3D artist](/resume)
+
+[Game Designer](/resume)
+
+[Writer](/resume)
+
+[More](/about)
+
+Founder & Lead Lunatic at [Studios LU/NE](studioslune.com)
