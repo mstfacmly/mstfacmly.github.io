@@ -4,7 +4,7 @@ title: Résumé
 ---
 ## Games
 * [Sig: the City Between](https://genesisoflegend.com/products/sig) - Interior Artwork
-* [The Other Room](https://minorityvr.com) - Game and Narrative Consultant
+* [The Other Room](http://minorityvr.com) - Game and Narrative Consultant
 * [الأخرة (Work in Progress)](https://studioslune.com/projects/alakhira) - Game, Narrative, and Art Direction, Character Designer, 3D Artist, Animator, Programmer
 
 ## Writer
