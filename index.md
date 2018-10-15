@@ -13,4 +13,4 @@ title: السلام عليكم
 
 [More](/about)
 
-Founder & Lead Lunatic at [Studios LU/NE](studioslune.com)
+Founder & Lead Lunatic at [Studios LU/NE](https://studioslune.com)
