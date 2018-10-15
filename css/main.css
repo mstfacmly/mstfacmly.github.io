@@ -78,3 +78,15 @@ img {
 	border-radius: 50%;
 	vertical-align: middle;
 }
+
+@media screen and (min-width: 32rem) and (max-width: 48rem) {
+	html {
+		font-size: 15px;
+	}
+}
+
+@media screen and (min-width: 48rem){
+	html {
+		font-size: 16px;
+	}
+}
