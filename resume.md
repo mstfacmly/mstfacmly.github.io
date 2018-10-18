@@ -16,7 +16,7 @@ title: Résumé
 * [Multijoueur](https://multijoueur.ca/author/mchamli/) - Writer
 * [Geekbecois](https://geekbecois.com/author/moustafa/) - Collaborator
 
-<div id="contributions" class="contributions" markdown="1">
+<!--div id="contributions" class="contributions" markdown="1">
 <h3>Some open source contributions:</h3>
 <ul>
 {% for contribution in site.data.github-contributions limit:10 %}
@@ -25,4 +25,4 @@ title: Résumé
 </li>
 {% endfor %}
 </ul>
-</div>
+</div-->
