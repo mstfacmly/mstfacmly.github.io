@@ -18,8 +18,16 @@ gravatar: 053189a14b858da5286971d47897ca68
 steam: mstfacmly
 discord: mstfacmly#1855
 
+# github contributions
+githubcontributions:
+        username: mstfacmly
+        page_limit: 3
+        cache: 300
+
 #remote-theme: fongandrew/hydeout
 permalink: pretty #/blog/:year/:month/:day/:title
 markdown: kramdown
 plugins:
         - jekyll-sitemap
+        - jekyll-hinduarabic
+        - jekyll-github-contributions
