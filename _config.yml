@@ -13,7 +13,7 @@ email: mstfacmly@studioslune.com
 twitter: "@mstfacmly"
 github:
         user: mstfacmly
-        repo: github.com/mstfacmly
+        repo: https://github.com/mstfacmly
 gravatar: 053189a14b858da5286971d47897ca68
 steam: mstfacmly
 discord: mstfacmly#1855
@@ -31,3 +31,5 @@ plugins:
         - jekyll-sitemap
         - jekyll-hinduarabic
         - jekyll-github-contributions
+        - jekyll-gallery-generator
+        - hijri

@@ -38,7 +38,7 @@ h2 {
 	color: #ddd;
 }
 h3 {
-	font-size: 1em;
+	font-size: 1.21em;
 	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';
 	color: #ddd;
 }
@@ -52,8 +52,8 @@ footer {
 	font-size: .8em;
 }
 
-body ul {
-	font-size: 1.01rem;
+body ul li {
+	font-size: 1.11em;
 	line-height: 1.64rem;
 }
 

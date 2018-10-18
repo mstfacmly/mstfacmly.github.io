@@ -5,12 +5,12 @@ layout: default
 {% include age.html %} 
 {% endcapture %}
 
-Age: {{ age | strip }}
+Lebanese-born {{ age | strip }}, year-old artist, game designer & programmer.
 
-Current OS: [{{ site.OS }}]({{ site.OSsite }})
-
-I enjoy making art, playing the guitar, singing, dancing, and cooking.
+I enjoy making art, playing the guitar, singing, dancing, and cooking.<br>I speak {{ site.langs }}.
 
 I am an autodidact, teaching myself to play an instrument, as well as how to program in {{ site.proglangs }}, but I don't shy from taking classes when needed.
 
-I speak {{ site.langs }}.
+
+Current OS: [{{ site.OS }}]({{ site.OSsite }})
+
