@@ -10,14 +10,14 @@ title: Résumé
 ## Writer
 ### In print
 * [Fourrer Le Feu](https://leslibraires.ca/livres/fourrer-le-feu-marjolaine-beauchamp-9782924682036.html) - Prologue
-* [Grammaire Rebelle](https://www.facebook.com/events/290536951728803/)
+* [Grammaire Rebelle](https://www.facebook.com/events/290536951728803/) - Provided with a non-colonialist definition of Falasteen
 
 ### Online
 * [Multijoueur](https://multijoueur.ca/author/mchamli/) - Writer
 * [Geekbecois](https://geekbecois.com/author/moustafa/) - Collaborator
 
-<!--div id="contributions" class="contributions" markdown="1">
-<h3>Some open source contributions:</h3>
+<div id="contributions" class="contributions" markdown="1">
+### Some open source contributions:
 <ul>
 {% for contribution in site.data.github-contributions limit:10 %}
 <li>
@@ -25,4 +25,4 @@ title: Résumé
 </li>
 {% endfor %}
 </ul>
-</div-->
+</div>
