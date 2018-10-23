@@ -7,6 +7,8 @@ langs: العربية, English, French, a little bit of Spanish and Italian
 proglangs: Python, GDScript, & Web languages (HTML, CSS, Markdown, Liquid)
 OS: Ubuntu 18.04
 OSsite: https://ubuntu.com
+phoneOS: Android Oreo
+phoneOSsite: https://www.android.com/versions/oreo-8-0/
 
 #contact info
 email: mstfacmly@studioslune.com
