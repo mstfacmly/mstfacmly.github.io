@@ -11,6 +11,7 @@ I enjoy making art, playing the guitar, singing, dancing, and cooking.<br>I spea
 
 I am an autodidact, teaching myself to play an instrument, as well as how to program in {{ site.proglangs }}, but I don't shy from taking classes when needed.
 
+I also unabashedly love [Superman](/superman).
 
 Current OS: [{{ site.OS }}]({{ site.OSsite }}) <br>
 Phone OS: [{{ site.phoneOS }}]({{ site.phoneOSsite }})
