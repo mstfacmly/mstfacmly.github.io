@@ -1,13 +1,11 @@
-{
-	display: block;
-	overflow: auto;
-}
-
 body {
 	margin: 60px auto;
-	width: 70%;
+	width: 72%;
 	color: #ddd;
 	background-color: #525252;
+}
+footer{
+	position: bottom;
 }
 nav ul, footer ul {
 	font-family:'FiraGO Thin', 'Noto Sans', 'Sans-Serif';
@@ -17,7 +15,8 @@ nav ul, footer ul {
 	list-style: none;
 }
 nav ul li, footer ul li {
-	display: inline;
+	overflow: auto;
+	display: inline-block;
 	margin-right: 20px;
 }
 a {
