@@ -2,6 +2,8 @@
 layout: post
 title: Bohemian Rhapsody
 ---
+![Bohemian Rhapsody](https://upload.wikimedia.org/wikipedia/en/2/2e/Bohemian_Rhapsody_poster.png)
+
 From the onset of [*{{ page.title }}*](https://www.imdb.com/title/tt1727824/), the audience is told what this is to be: The tragic and grandiose tale of [Freddie Mercury](https://en.wikipedia.org/wiki/Freddie_Mercury). Not Queen, but Freddie. And from the onset, it tells us that liberties are to be taken for the sake of storytelling. As Freddie Mercury prepares to take the stage at Wembley Stadium for 1985's Live Aid concert, he does so alone, never turning to face the camera. In one sweeping shot, we are told of how *alone* Freddie was.
 
 For the most part, *{{ page.title }}* succeeds. But it the ways it fails are baffling. At a runtime of 2h14, it feels like it was trying to cover too much of the myth behind the man and the band he fronted. The movie relies on the myth of the genius, and anecdotal tales with regarding certain elements of some of the band's iconic elements. This has the impact of delivering too much and too little all at once, and does not provide with enough to understand the reality of both the group, and Freddie's struggles as they grow up.
