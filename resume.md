@@ -44,7 +44,7 @@ title: Résumé
 * [Grammaire Rebelle](https://www.facebook.com/events/290536951728803/) - Provided with a non-colonialist definition of Falasteen
 
 #### Online
-* [Medium](https://medium.com/@mstfacmly)
+* [Medium]({{ site.medium }})
 * [Multijoueur](https://multijoueur.ca/author/mchamli/) - Writer
 * [Geekbecois](https://geekbecois.com/author/moustafa/) - Collaborator
 
