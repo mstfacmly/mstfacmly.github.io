@@ -38,12 +38,13 @@ title: Résumé
 * [The Other Room](http://minorityvr.com) - Game and Narrative Consultant
 * [الأخرة (in development)](https://studioslune.com/projects/alakhira) - Game, Narrative, and Art Direction, Character Designer, 3D Artist, Animator, Programmer
 
-### Writer
+### Writing
 #### In print
 * [Fourrer Le Feu](https://leslibraires.ca/livres/fourrer-le-feu-marjolaine-beauchamp-9782924682036.html) - Prologue
 * [Grammaire Rebelle](https://www.facebook.com/events/290536951728803/) - Provided with a non-colonialist definition of Falasteen
 
 #### Online
+* [Medium](https://medium.com/@mstfacmly)
 * [Multijoueur](https://multijoueur.ca/author/mchamli/) - Writer
 * [Geekbecois](https://geekbecois.com/author/moustafa/) - Collaborator
 
