@@ -6,20 +6,32 @@ title: Résumé
 {% assign langs = site.langs | remove: 'a little bit of' | remove: 'and' | remove: ',' | split: ' ' %}
 {%- for lang in langs -%}
 {% comment %}
-{% if lang == 'Spanish' or lang == 'Italian' %}
+{% if lang == langs[3] or lang == langs[4] %}
 * {{ lang | append: ' (Functional)' -}}
 {% else %}
 * {{ lang | append: ' (Master)' -}}
 {% endif %}
 {% endcomment %}
-* {{ lang -}}
+{% if lang != langs.last %}
+{{- lang | append: ', ' -}}
+{%- else -%}
+{{- lang -}}
+{% endif %}
 {%- endfor %}
 
 ### Programming Languages
 {% assign prog = site.proglangs | remove: '& Web languages' | remove: '(' | remove: ')' | split: ',' %}
-{% for langs in prog %}
-* {{ langs -}}
+{%- for langs in prog -%}
+{%- if langs != prog.last -%}
+{{- langs | append: ', ' -}}
+{%- else -%}
+{{- langs -}}
+{% endif %}
 {% endfor %}
+
+{% comment %}
+* {{ langs -}}
+{% endcomment %}
 
 ### Games
 * [Sig: the City Between](https://genesisoflegend.com/products/sig) - Interior Artwork
