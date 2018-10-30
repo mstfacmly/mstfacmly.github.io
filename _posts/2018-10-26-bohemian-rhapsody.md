@@ -32,3 +32,6 @@ And, like in the film, Freddie ends his tale echoing his father's words in his l
 
 Through the Live-Aid concert, the impact his life had on his friends, family, and millions around the world, Freddie leaves the world having left his mark on a generation, giving it a voice. *{{ page.title }}*, the movie may be a trite, shallow affair, it still to give something back to those that society had deemed to be different. Not much, maybe, but maybe a little bit of a dream that someone could rise to the occasion, and punch the sky.
 
+## Addition 
+
+If you're looking for a more accurate (but maybe less exciting) look at Freddie Mercury's life & Queen's evolution, give the documentary [Mercury Rising](https://youtu.be/0OWPADFASFM) a look.
