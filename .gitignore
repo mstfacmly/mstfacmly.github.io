@@ -7,3 +7,4 @@ vendor/
 .jekyll-metadata/
 rebuild.sh
 check.sh
+test.md

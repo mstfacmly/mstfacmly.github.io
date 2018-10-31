@@ -29,5 +29,5 @@ plugins:
         - jekyll-sitemap
         - jekyll-hinduarabic
         - jekyll-github-metadata
-        - jekyll-gallery-generator
+          #        - jekyll-gallery-generator
         - hijri

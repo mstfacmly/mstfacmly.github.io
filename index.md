@@ -2,8 +2,7 @@
 layout: default
 title: السلام عليكم
 ---
-
-# ![Me]({{ site.github.owner_gravatar_url }})مصطفى شملي
+# ![Me]({{ site.github.owner_gravatar_url }}) مصطفى شملي
 {% comment %}
 # ![Me](https://gravatar.com/avatar/{{ site.gravatar }})مصطفى شملي
 {% endcomment %}

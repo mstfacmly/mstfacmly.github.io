@@ -4,12 +4,12 @@ body {
 	color: #ddd;
 	background-color: #525252;
 }
-footer{
-	position: bottom;
+.container {
+	min-height: 64vh;
+	padding-bottom: 4vh;
 }
 nav ul, footer ul {
-	font-family:'FiraGO Thin', 'Noto Sans', 'Sans-Serif';
-	font-weight: bold;
+	font-family:'FiraGO Light', 'Noto Sans', 'Sans-Serif';
 	font-variant: all-small-caps;
 	padding: 0px;
 	list-style: none;
@@ -21,7 +21,7 @@ nav ul li, footer ul li {
 }
 a {
 	text-decoration: none;
-	color: #ccc;
+	color: #9ec356;
 }
 a:hover {
 	color: #fec356;
@@ -44,11 +44,11 @@ h3 {
 p {
 	font-size: 1.42em;
 	line-height: 1.42em;
-	color: #999;
+	color: #e2e2e2;
 }
 footer {
 	border-top: 1px solid #d5d5d5;
-	font-size: .8em;
+	font-size: 0.99rem;
 }
 
 body ul li {
@@ -88,4 +88,17 @@ img {
 	html {
 		font-size: 16px;
 	}
+}
+
+.childDiv{
+	width: 33.3%;
+}
+.left { 
+float: left;
+}
+.right {
+float: right;
+}
+.center {
+float: none;
 }
