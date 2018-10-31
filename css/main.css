@@ -6,7 +6,6 @@ body {
 }
 .container {
 	min-height: 64vh;
-	height: 100vh;
 	padding-bottom: 4vh;
 }
 nav ul, footer ul {
