@@ -2,8 +2,15 @@
 layout: default
 title: Résumé
 ---
-<section id="resume" markdown="1">
+<div class="reslinks" markdown="1">
 
+* <a href="https://mstfacmly.github.io"><i class="fab fa-github"></i></a>
+* <a href="{{ site.medium }}"><i class="fab fa-medium"></i></a>
+* <a href="{{ site.linkedin }}"><i class="fab fa-linkedin-in"></i></a>
+
+</div>
+
+<section id="resume" markdown="1">
 ### Languages
 {% assign langs = site.langs | remove: 'a little bit of' | remove: 'and' | remove: ',' | split: ' ' %}
 {%- for lang in langs -%}

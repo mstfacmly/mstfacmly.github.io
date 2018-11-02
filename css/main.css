@@ -12,6 +12,9 @@ body {
 .nav {
 	overflow: hidden;
 }
+footer {
+	text-align: center;
+}
 .nav ul, footer ul {
 	font-family:'FiraGO Light', 'Noto Sans', 'Sans-Serif';
 	font-variant: all-small-caps;
@@ -25,6 +28,29 @@ body {
 }
 .nav .icon {
 	display: none;
+}
+.contact ul li {
+	font-family:'FiraGO Light', 'Noto Sans', 'Sans-Serif';
+	text-align: initial;
+	list-style: none;
+	font-size: 1.42rem;
+	padding: 1rem;
+}
+.contact-small ul li {
+	font-family:'FiraGO Light', 'Noto Sans', 'Sans-Serif';
+	text-align: initial;
+	list-style: none;
+	font-size: 1rem;
+	padding: 0.5rem;
+}
+.reslinks {
+	float: right;
+	font-size: x-large;
+}
+.reslinks ul li {
+	list-style: none;
+	padding: 1rem;
+	display: inline-block;
 }
 a {
 	text-decoration: none;
