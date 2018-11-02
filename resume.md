@@ -2,6 +2,8 @@
 layout: default
 title: Résumé
 ---
+<section id="resume" markdown="1">
+
 ### Languages
 {% assign langs = site.langs | remove: 'a little bit of' | remove: 'and' | remove: ',' | split: ' ' %}
 {%- for lang in langs -%}

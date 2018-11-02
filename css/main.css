@@ -1,5 +1,5 @@
 body {
-	font-family:'FiraGO Regular', 'Noto Sans', 'Sans-Serif';
+	font-family:'FiraGO', 'Noto Sans', 'Sans-Serif';
 	margin: 60px auto;
 	width: 72%;
 	color: #ddd;
@@ -87,6 +87,9 @@ ul.posts li {
 		margin: 0 auto;
 		vertical-align: middle;
 	}	
+	#resume {
+		text-align: initial;
+	}
 }
 
 @media screen and (min-width: 48rem){
@@ -99,6 +102,7 @@ ul.posts li {
 		margin: 0 auto;
 		vertical-align: middle;
 	}
+}
 
 .childDiv{
 	width: 33.3%;
