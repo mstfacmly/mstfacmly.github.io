@@ -66,12 +66,6 @@ ul.posts li {
 	list-style:none;
 }
 
-img {
-	border-radius:50%;
-	height:80px;
-	margin: 0 auto;
-	width: 80px;
-	vertical-align: middle;
 }
 
 .img-circle {
@@ -79,17 +73,32 @@ img {
 	vertical-align: middle;
 }
 
-@media screen and (min-width: 32rem) and (max-width: 48rem) {
+@media screen and (min-width: 16rem) and (max-width: 48rem) {
 	html {
 		font-size: 15px;
+		text-align: center;
 	}
+	h1 {
+		display: inline-grid;
+	}
+	img {
+		border-radius:50%;
+		height: 11rem;
+		margin: 0 auto;
+		vertical-align: middle;
+	}	
 }
 
 @media screen and (min-width: 48rem){
 	html {
 		font-size: 16px;
 	}
-}
+	img {
+		border-radius:50%;
+		height: 7rem;
+		margin: 0 auto;
+		vertical-align: middle;
+	}
 
 .childDiv{
 	width: 33.3%;
