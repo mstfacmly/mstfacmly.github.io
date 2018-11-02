@@ -7,6 +7,8 @@ title: السلام عليكم
 # ![Me](https://gravatar.com/avatar/{{ site.gravatar }})مصطفى شملي
 {% endcomment %}
 
+<section id="blurb" markdown="1">
+
 [2D/3D artist](/resume)
 
 [Game Designer](/resume#games)

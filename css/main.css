@@ -42,6 +42,11 @@ h3 {
 	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';
 	color: #ddd;
 }
+h4 {
+	font-size: 1.11em;
+	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';
+	color: #ddd;
+}
 p {
 	font-size: 1.42em;
 	line-height: 1.42em;
@@ -66,16 +71,9 @@ ul.posts li {
 	list-style:none;
 }
 
-}
-
-.img-circle {
-	border-radius: 50%;
-	vertical-align: middle;
-}
-
 @media screen and (min-width: 16rem) and (max-width: 48rem) {
 	html {
-		font-size: 15px;
+		font-size: 1rem;
 		text-align: center;
 	}
 	h1 {
@@ -85,8 +83,13 @@ ul.posts li {
 		border-radius:50%;
 		height: 11rem;
 		margin: 0 auto;
-		vertical-align: middle;
 	}	
+	#blurb p {
+		text-align: center;
+	}
+	.container p {
+		text-align: initial;
+	}
 	#resume {
 		text-align: initial;
 	}
@@ -94,7 +97,7 @@ ul.posts li {
 
 @media screen and (min-width: 48rem){
 	html {
-		font-size: 16px;
+		font-size: 1rem;
 	}
 	img {
 		border-radius:50%;
