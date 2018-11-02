@@ -80,7 +80,7 @@ ul.posts li {
 	list-style:none;
 }
 
-@media screen and (max-width: 42rem) {
+@media screen and (max-width: 64rem) {
 	.nav a {
 		display: none;
 		font-size: 2rem;
@@ -133,7 +133,7 @@ ul.posts li {
 		text-align: initial;
 	}
 }
-@media screen and (min-width: 42rem) and (max-width: 64rem) {
+@media screen and (min-width: 64rem) and (max-width: 72rem) {
 	html {
 		font-size: 1rem;
 		text-align: center;
@@ -159,7 +159,7 @@ ul.posts li {
 	}
 }
 
-@media screen and (min-width: 64rem){
+@media screen and (min-width: 72rem){
 	html {
 		font-size: 1rem;
 	}
