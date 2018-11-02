@@ -13,5 +13,6 @@ I am an autodidact, teaching myself to play an instrument, as well as how to pro
 
 I also unabashedly love [Superman](/superman).
 
-Current OS: [{{ site.OS }}]({{ site.OSsite }}) <br>
+OS: [{{ site.OS }}]({{ site.OSsite }}) <br>
+Browser: [{{ site.browser}}]({{ site.browsersite }})<br>
 Phone OS: [{{ site.phoneOS }}]({{ site.phoneOSsite }})

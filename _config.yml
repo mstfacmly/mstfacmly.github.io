@@ -5,8 +5,10 @@ author: mstfa cmly
 birthday: '1984-04-11 00:00:00 +0300'
 langs: العربية, English, French, a little bit of Spanish and Italian
 proglangs: Python, GDScript, & Web languages (HTML, CSS, Markdown, Liquid)
-OS: Ubuntu 18.04
+OS: Ubuntu
 OSsite: https://ubuntu.com
+browser: Firefox
+browsersite: https://firefox.com
 phoneOS: Android Oreo
 phoneOSsite: https://www.android.com/versions/oreo-8-0/
 
