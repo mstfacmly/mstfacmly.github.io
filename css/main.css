@@ -140,7 +140,7 @@ ul.posts li {
 	.nav.responsive li {
 		display: unset;
 		height: 100%;
-		padding-top: 5vh;
+		padding-top: 20vh;
 	}
 	html {
 		font-size: 1.52rem;
