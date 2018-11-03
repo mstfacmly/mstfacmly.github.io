@@ -153,11 +153,14 @@ ul.posts li {
 	.container p {
 		text-align: initial;
 	}
+	.container ul {
+		text-align: initial;
+	}
 	#resume {
 		text-align: initial;
 	}
 }
-@media screen and (min-width: 42rem) and (max-width: 74rem) {
+@media screen and (min-width: 44rem) and (max-width: 74rem) {
 	html {
 		font-size: 1.33rem;
 		text-align: center;
@@ -175,10 +178,7 @@ ul.posts li {
 	nav ul li {
 		font-size: 1.52rem;
 	}
-	.container p {
-		text-align: initial;
-	}
-	#resume {
+	.container {
 		text-align: initial;
 	}
 }
