@@ -134,13 +134,11 @@ ul.posts li {
 		text-align: right;
 	}
 	.nav.responsive ul {
-		display: grid;
 		height: 100vh;
 	}
 	.nav.responsive li {
-		display: unset;
-		height: 100%;
 		padding-top: 10vh;
+		margin: 0;
 	}
 	html {
 		font-size: 1.52rem;
