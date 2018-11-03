@@ -7,7 +7,6 @@ body {
 }
 .container {
 	min-height: 64vh;
-	padding-bottom: 4vh;
 }
 .nav {
 	overflow: hidden;
@@ -31,7 +30,7 @@ body {
 	text-align: initial;
 	list-style: none;
 	font-size: 1.42rem;
-	padding: 1rem;
+	padding: 0.42rem;
 }
 .contact-small ul li {
 	font-family:'FiraGO Light', 'Noto Sans', 'Sans-Serif';
