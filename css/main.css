@@ -115,17 +115,23 @@ ul.posts li {
 		right: 3rem;
 		top: 2rem;
 	}
-	.nav.responsive {position: relative;}
+	.nav.responsive {
+		background: #525252;
+		position: fixed;
+		right: 0;
+		top: 0;
+		z-index: 100;
+	}
 	.nav.responsive a {
-		float: none;
 		display: block;
+		width: 100vw;
 		text-align: center;
 	}
 	.nav.responsive a.icon {
-		float: right;
 		position: fixed;
 		right: 3rem;
 		top: 2rem;
+		text-align: right;
 	}
 	.nav.responsive ul {
 		display: grid;
@@ -134,6 +140,7 @@ ul.posts li {
 	.nav.responsive li {
 		display: unset;
 		height: 100%;
+		padding-top: 5vh;
 	}
 	html {
 		font-size: 1.52rem;
