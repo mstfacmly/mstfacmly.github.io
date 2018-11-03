@@ -12,9 +12,6 @@ body {
 .nav {
 	overflow: hidden;
 }
-footer {
-	text-align: center;
-}
 .nav ul, footer ul {
 	font-family:'FiraGO Light', 'Noto Sans', 'Sans-Serif';
 	font-variant: all-small-caps;
@@ -194,6 +191,9 @@ ul.posts li {
 		height: 7rem;
 		margin: 0 auto;
 		vertical-align: middle;
+	}
+	footer {
+		text-align: right;
 	}
 }
 
