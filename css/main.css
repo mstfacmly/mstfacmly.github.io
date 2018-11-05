@@ -104,7 +104,7 @@ ul.posts li {
 	padding: 1rem;
 }
 
-@media screen and (max-width: 64rem) and (orientation: portrait) {
+@media screen and (max-width: 64rem) /*and (orientation: portrait)*/ {
 	.nav a {
 		display: none;
 		font-size: 3rem;
@@ -165,7 +165,7 @@ ul.posts li {
 		text-align: initial;
 	}
 }
-@media screen and (min-width: 54rem) and (max-width: 74rem) {
+@media screen and (min-width: 60rem) and (max-width: 74rem) {
 	html {
 		font-size: 1.33rem;
 		text-align: center;
