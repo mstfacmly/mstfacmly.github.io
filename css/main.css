@@ -165,7 +165,7 @@ ul.posts li {
 		text-align: initial;
 	}
 }
-@media screen and (min-width: 44rem) and (max-width: 74rem) {
+@media screen and (min-width: 54rem) and (max-width: 74rem) {
 	html {
 		font-size: 1.33rem;
 		text-align: center;
@@ -214,4 +214,14 @@ float: right;
 }
 .center {
 float: none;
+}
+
+#progbarbase {
+	width: 100%;
+	background-color: grey;
+}
+#progbar {
+	width: 1%;
+	height: 30px;
+	background-color: green;
 }
