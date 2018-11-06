@@ -25,7 +25,7 @@
 {% endif %}
 
 {% if mins <= 1 %}
-	{% assign read_time = '1' | append: ' minute' %}
+	{% assign read_time = '1' | prepend: '0 - ' | append: ' minute' %}
 {% else %}
 	{% assign read_time = mins_h | append: ' - ' | append: mins_l | append: ' minutes' %}
 {% endif %}
