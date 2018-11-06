@@ -5,7 +5,7 @@ layout: default
 {% include age.html %} 
 {% endcapture %}
 
-Lebanese-born {{ age | strip }}, year-old artist, game designer & programmer.
+Lebanese-born {{ age | strip }} year-old artist, game designer & programmer.
 
 I enjoy making art, playing the guitar, singing, dancing, and cooking.<br>I speak {{ site.langs }}.
 

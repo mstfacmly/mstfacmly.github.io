@@ -59,27 +59,27 @@ a:hover {
 	color: #fec356;
 }
 h1 {
-	font-size: 2.7em;
+	font-size: 2.7rem;
 	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';
 	color: #ddd;
 }
 h2 {
-	font-size: 2em;
+	font-size: 2rem;
 	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';
 	color: #ddd;
 }
 h3 {
-	font-size: 1.21em;
+	font-size: 1.21rem;
 	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';
 	color: #ddd;
 }
 h4 {
-	font-size: 1.11em;
+	font-size: 1.11rem;
 	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';
 	color: #ddd;
 }
 p {
-	font-size: 1.42em;
+	font-size: 1.42rem;
 	line-height: 1.42em;
 	color: #e2e2e2;
 }
@@ -165,7 +165,7 @@ ul.posts li {
 		text-align: initial;
 	}
 }
-@media screen and (min-width: 54rem) and (max-width: 78rem) and (orientation: landscape) {
+@media screen and (min-width: 64rem) and (max-width: 74rem) /* and (orientation: landscape)*/ {
 	html {
 		font-size: 1.33rem;
 		text-align: center;
@@ -175,6 +175,12 @@ ul.posts li {
 		height: 9rem;
 		margin: 0 auto;
 		vertical-align: middle;
+	}
+	.post img {
+		border-radius: initial; 
+		float: left;
+		height: 11rem;
+		margin: 1% 2% 0 0;
 	}
 	h1 {
 		text-align: initial;
@@ -187,8 +193,7 @@ ul.posts li {
 		text-align: initial;
 	}
 }
-
-@media screen and (min-width: 78rem){
+@media screen and (min-width: 74rem){
 	html {
 		font-size: 1rem;
 	}
