@@ -104,6 +104,12 @@ ul.posts li {
 	padding: 1rem;
 }
 
+.post img {
+		border-radius: initial; 
+		float: left;
+		margin: 1% 2% 0 0;
+	}
+
 @media screen and (max-width: 64rem) /*and (orientation: portrait)*/ {
 	.nav a {
 		display: none;
@@ -175,12 +181,6 @@ ul.posts li {
 		height: 9rem;
 		margin: 0 auto;
 		vertical-align: middle;
-	}
-	.post img {
-		border-radius: initial; 
-		float: left;
-		height: 11rem;
-		margin: 1% 2% 0 0;
 	}
 	h1 {
 		text-align: initial;
