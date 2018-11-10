@@ -105,6 +105,7 @@ ul.posts li {
 }
 
 .post img {
+		height: 11rem;
 		border-radius: initial; 
 		float: left;
 		margin: 1% 2% 0 0;
