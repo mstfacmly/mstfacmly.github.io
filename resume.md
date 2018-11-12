@@ -57,6 +57,11 @@ title: Résumé
 * [Multijoueur](https://multijoueur.ca/author/mchamli/) - Writer
 * [Geekbecois](https://geekbecois.com/author/moustafa/) - Collaborator
 
+#### Web Design
+* [Memphis Feminist Collective](http://memphisfeministcollective.org/) - Completed the site's setup & added extra CSS rules
+* [Game Curious Montreal](http://gamecuriousmtl.mrgs.ca/) - Updated the website to use Jekyll
+* [This website](/)
+
 <!--div id="contributions" class="contributions" markdown="1">
 ## Coding Contributions:
  <ul>
