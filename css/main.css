@@ -7,14 +7,20 @@ body {
 }
 .container {
 	min-height: 60vh;
+	margin-top: 6rem;
 }
 .nav {
 	overflow: hidden;
+	position: fixed;
+	background-color: rgba(82,82,82,0.84);
+	top: 0;
+	left: 0;
+	width:100%;
 }
 .nav ul, footer ul {
 	font-family:'FiraGO Light', 'Noto Sans', 'Sans-Serif';
 	font-variant: all-small-caps;
-	padding: 0px;
+	/*padding: 0px;*/
 	list-style: none;
 }
 .nav ul li, footer ul li {
@@ -112,6 +118,9 @@ ul.posts li {
 	}
 
 @media screen and (max-width: 64rem) /*and (orientation: portrait)*/ {
+	.nav {
+		height: 5.72rem;
+	}
 	.nav a {
 		display: none;
 		font-size: 3rem;
@@ -127,6 +136,7 @@ ul.posts li {
 		position: fixed;
 		right: 0;
 		top: 0;
+		height: 100%;
 		z-index: 100;
 	}
 	.nav.responsive a {
@@ -187,6 +197,9 @@ ul.posts li {
 		text-align: initial;
 		display: inline-block;
 	}
+	nav ul {
+		padding: 1rem 0;
+	}
 	nav ul li {
 		font-size: 1.52rem;
 	}
@@ -206,6 +219,9 @@ ul.posts li {
 	}
 	footer {
 		text-align: right;
+	}
+	nav ul {
+		padding: 1rem 0 0 11rem;
 	}
 }
 
