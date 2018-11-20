@@ -198,7 +198,7 @@ ul.posts li {
 		display: inline-block;
 	}
 	nav ul {
-		padding: 1rem 0 3rem 0;
+		padding: 1rem 0 2rem 0;
 	}
 	nav ul li {
 		font-size: 1.52rem;
@@ -221,7 +221,7 @@ ul.posts li {
 		text-align: right;
 	}
 	nav ul {
-		padding: 1rem 0 3rem 11rem;
+		padding: 1rem 0 2rem 11rem;
 	}
 }
 
