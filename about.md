@@ -1,5 +1,6 @@
 ---
 layout: default
+title: About
 ---
 {% capture age %}
 {% include age.html %} 
