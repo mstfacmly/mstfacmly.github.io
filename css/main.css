@@ -1,12 +1,12 @@
 @font-face {
 	font-family: 'FiraGO', 'FiraGO Light', 'FiraGO Thin';
-	src: url('/style/fonts/FiraGO-Regular.woff') format('woff');
-	src: url('/style/fonts/FiraGO-Light.woff') format('woff');
-	src: url('/style/fonts/FiraGO-Thin.woff') format('woff');
-	src: url('/style/fonts/FiraGO-Regular.woff2') format('woff2');
-	src: url('/style/fonts/FiraGO-Light.woff2') format('woff2');
-	src: url('/style/fonts/FiraGO-Thin.woff2') format('woff2');
-	}
+	src: url('/fonts/FiraGO-Regular.woff') format('woff'),
+	url('/fonts/FiraGO-Light.woff') format('woff'),
+	url('/fonts/FiraGO-Thin.woff') format('woff'),
+	url('/fonts/FiraGO-Regular.woff2') format('woff2'),
+	url('/fonts/FiraGO-Light.woff2') format('woff2'),
+	url('/fonts/FiraGO-Thin.woff2') format('woff2');
+}
 body {
 	font-family:'FiraGO', 'Noto Sans', 'Sans-Serif';
 	margin: 60px auto;
