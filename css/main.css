@@ -26,6 +26,15 @@ body {
 	left: 0;
 	width:100%;
 }
+.nav ul li {
+	margin: 0;
+	padding: 0.05rem 0.5rem 0.05rem 0.5rem;
+}
+.nav li:hover{
+	background-color: #474747;
+	border-radius: 0.25rem;
+	transition: background-color 0.1s ease-in;
+}
 .nav ul, footer ul {
 	font-family:'FiraGO Light', 'Noto Sans', 'Sans-Serif';
 	font-variant: all-small-caps;
@@ -40,21 +49,28 @@ body {
 .nav .icon {
 	display: none;
 }
+.container li {
+	width: 52vw;
+}
+.container li:hover{
+	background-image: linear-gradient(to right, #474747, #474747, #47474700);
+	border-radius: 0.25rem;
+	transition: background-color 0.1s ease-in;
+}
 .contact ul li {
-	font-family:'FiraGO Light', 'Noto Sans', 'Sans-Serif';
 	text-align: initial;
 	list-style: none;
 	font-size: 1.42rem;
 	padding: 0.42rem;
 }
 .contact-small ul li {
-	font-family:'FiraGO Light', 'Noto Sans', 'Sans-Serif';
 	text-align: initial;
 	list-style: none;
 	font-size: 1rem;
 	padding: 0.5rem;
 }
-.reslinks {
+.reslinks ul li {
+	width: initial;
 	float: right;
 	font-size: x-large;
 }
@@ -62,6 +78,9 @@ body {
 	list-style: none;
 	padding: 1rem;
 	display: inline-block;
+}
+.reslinks li:hover {
+	background-image: initial;
 }
 a {
 	text-decoration: none;
@@ -72,15 +91,6 @@ a:hover {
 	transition: color 0.15s ease-in;
 }
 
-.nav ul li {
-	margin: 0;
-	padding: 0.05rem 0.5rem 0.05rem 0.5rem;
-}
-.nav li:hover{
-	background-color: #474747;
-	border-radius: 0.1rem;
-	transition: background-color 0.05s ease-in;
-}
 h1 {
 	font-size: 2.7rem;
 	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';

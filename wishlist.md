@@ -2,4 +2,4 @@
 layout: default
 ---
 
-* [Steam](https://store.steampowered.com/wishlist/id/mstfacmly/
+* [Steam](https://store.steampowered.com/wishlist/id/mstfacmly/)
