@@ -23,3 +23,6 @@ The "United States of America" is currently, by definition, [in a civil war](htt
 But we're being told that things are better. Not perfect, but certainly better.
 
 Truth is: We're being lied into complacency.
+
+### Post Addendum
+[Episode #56](https://pca.st/hiQ0) of the [Feminist Frequency](https://feministfrequency.com/) Radio podcast covers some of the things I discussed here, and does so with more clarity and mastery of the subject at hand. A must listen.
