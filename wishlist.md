@@ -36,7 +36,7 @@ You can support me financially through these means
 * [ Binti](https://www.kobo.com/ca/en/ebook/binti) or any other novel by [Nnedi Okorafor](https://www.kobo.com/ca/en/search?query=Nnedi%20Okorafor&fcsearchfield=Author)
 
 #### Sexuality
-* [Kama Sutra](https://www.penguinrandomhouse.com/books/310597/kama-sutra-by-vatsyayana/9780143106593) - New trainslation by Aditya Narayan Dhairyasheel Haksar
+* [Kama Sutra](https://www.penguinrandomhouse.com/books/310597/kama-sutra-by-vatsyayana/9780143106593) - New translation by Aditya Narayan Dhairyasheel Haksar
 * [Sex and the Citadel](https://www.kobo.com/ca/en/ebook/sex-and-the-citadel)
 * [La révolution du plaisir](https://www.kobo.com/ca/en/ebook/la-revolution-du-plaisir-1)
 * [Love Not Given Lightly](https://www.kobo.com/ca/en/ebook/love-not-given-lightly-1)
