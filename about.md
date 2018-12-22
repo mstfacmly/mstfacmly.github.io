@@ -14,6 +14,13 @@ I am an autodidact, teaching myself to play an instrument, as well as how to pro
 
 I also unabashedly love [Superman](/superman).
 
+{% comment %}
+[Aries Sun](https://www.starslikeyou.com.au/your-astrology-profile/the-sun-in-aries/)
+[Leo Moon](https://www.starslikeyou.com.au/your-astrology-profile/moon-in-leo/)
+[Aquarius Ascendent](https://www.starslikeyou.com.au/your-astrology-profile/your-ascendant-is-aquarius/)
+{% endcomment %}
+
 OS: [{{ site.OS }}]({{ site.OSsite }}) <br>
 Browser: [{{ site.browser}}]({{ site.browsersite }})<br>
 Phone OS: [{{ site.phoneOS }}]({{ site.phoneOSsite }})
+
