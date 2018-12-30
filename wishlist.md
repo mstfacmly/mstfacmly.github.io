@@ -30,6 +30,7 @@ You can support me financially through these means
 * [Orientalism](https://www.kobo.com/ca/en/ebook/orientalism-4) - Or anything by [Edward W Said](https://www.kobo.com/ca/en/search?query=edward%20w%20said&fcsearchfield=Author)
 * [The Autobiography of Malcolm X](https://www.kobo.com/ca/en/ebook/the-autobiography-of-malcolm-x)
 * [An Oral History of the Palestinian Nakba](https://www.zedbooks.net/shop/book/an-oral-history-of-the-palestinian-nakba/)
+* [Islam for the Politically Incorrect](http://www.gilgamesh-publishing.co.uk/islam-for-the-politically-incorrect.html)
 
 #### Fiction
 * [The Map of Salt and Stars](https://www.kobo.com/ca/en/ebook/the-map-of-salt-and-stars-1)
@@ -65,3 +66,4 @@ You can always gift me with a donation to one of the following causes or chariti
 * [Beirut Madinati](http://beirutmadinati.com/donate)
 * [Free-Syria](http://www.free-syria-foundation.org/donate-fre-syria)
 * [Electronic Frontier Foundation (EFF)](https://www.eff.org/donate)
+* [Memphis Feminist Collective](http://memphisfeministcollective.org/)
