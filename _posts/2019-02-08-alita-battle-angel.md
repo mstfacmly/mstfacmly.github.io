@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Alita: Battle Angel
+title: Alita - Battle Angel
 ---
 
 ![{{ post.title }}](https://upload.wikimedia.org/wikipedia/en/e/ee/Alita_Battle_Angel_%282019_poster%29.png)
