@@ -3,6 +3,7 @@ layout: posts
 title: Alita: Battle Angel
 ---
 
+![{{ post.title }}](https://upload.wikimedia.org/wikipedia/en/e/ee/Alita_Battle_Angel_%282019_poster%29.png)
 Okay, so having seen the movies, here are my thoughts:
 
 Settings wise, this is a **good example** of how to adapt a story. If you're gonna move things around, move **everything** around. It's clearly set somewhere that's meant to be central America, and Alita is played by Latinx actress Rosa Salazar, and there are a lot of POC in the film. So notch on that.
