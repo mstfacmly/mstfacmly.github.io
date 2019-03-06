@@ -36,6 +36,9 @@ You can support me financially through these means
 * [The Map of Salt and Stars](https://www.kobo.com/ca/en/ebook/the-map-of-salt-and-stars-1)
 * [ Binti](https://www.kobo.com/ca/en/ebook/binti) or any other novel by [Nnedi Okorafor](https://www.kobo.com/ca/en/search?query=Nnedi%20Okorafor&fcsearchfield=Author)
 
+#### Game Development:
+* [Procedural Storytelling in Game Design](https://www.crcpress.com/Procedural-Storytelling-in-Game-Design/Short-Adams/p/book/9781138595309)
+
 #### Sexuality
 * [Kama Sutra](https://www.penguinrandomhouse.com/books/310597/kama-sutra-by-vatsyayana/9780143106593) - New translation by Aditya Narayan Dhairyasheel Haksar
 * [Sex and the Citadel](https://www.kobo.com/ca/en/ebook/sex-and-the-citadel)
