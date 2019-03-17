@@ -3,7 +3,7 @@ layout: post
 title: The Coming of the Ship
 ---
 
-As of sundown on this day, being the 10th day of Rajab (the 7th month), I have turned 36 on the Hijri calendar in the year 1440. In 26 days, I turn 35 in the year 2019, on the Gregorian calendar. So, to countdown the day, I have decided to post one chapter per day of Gibran Khalil Gibran's *The Prophet* until it's time to celebrate. Without further ado, here's the first chapter: {{ post.title }}
+As of sundown on this day, being the 10th day of Rajab (the 7th month), I have turned 36 on the Hijri calendar in the year 1440. In 26 days, I turn 35 in the year 2019, on the Gregorian calendar. So, to countdown the day, I have decided to post one chapter per day of Gibran Khalil Gibran's *The Prophet* until it's time to celebrate. Without further ado, here's the first chapter: {{ page.title }}
  
 
 ---
