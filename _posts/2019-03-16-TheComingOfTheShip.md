@@ -3,10 +3,10 @@ layout: post
 title: The Coming of the Ship
 ---
 
-As of sundown on this day, I have turned 36 on the Hijri calendar. In 26 days, I turn 35 on the Gregorian calendar. So, to countdown the day, I have decided to post one chapter per day of Gibran Khalil Gibran's *The Prophet* until it's time to celebrate. Without further ado, here's the first chapter: {{post.title}}.
+As of sundown on this day, I have turned 36 on the Hijri calendar. In 26 days, I turn 35 on the Gregorian calendar. So, to countdown the day, I have decided to post one chapter per day of Gibran Khalil Gibran's *The Prophet* until it's time to celebrate. Without further ado, here's the first chapter: {{ .title }}.
  
 
-
+---
 
 Almustafa, the chosen and the beloved, who was a dawn onto his own day, had waited twelve years in the city of Orphalese for his ship that was to return and bear him back to the isle of his birth.
 
