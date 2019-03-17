@@ -1,5 +1,5 @@
 ---
-style: post
+layout: post
 title: The Coming of the Ship
 ---
 
