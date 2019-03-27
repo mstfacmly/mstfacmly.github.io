@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Clothes
-tags: [khalil gibran, the prophet, clothes, poetry]
+title: Buying and Selling
+tags: [khalil gibran, the prophet, buying, selling, buying and selling, poetry]
 ---
 And a merchant said, "Speak to us of Buying and Selling."
 
