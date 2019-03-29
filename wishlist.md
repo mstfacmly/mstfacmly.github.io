@@ -59,7 +59,6 @@ You can support me financially through these means
 ### Subscriptions
 * [Palbox](https://www.palbox.org/)
 * [Sketchbox](https://getsketchbox.com/)
-* [Wired](https://subscribe.wired.com/subscribe/)
 
 ### Causes
 You can always gift me with a donation to one of the following causes or charities:
