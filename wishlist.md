@@ -13,9 +13,7 @@ You can support me financially through these means
 
 ### Hardware
 * [Lenovo Carbon X1](https://www.lenovo.com/ca/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-6th-Gen/p/22TP2TXX16G)
-{% comment %}
 * [Microsoft Surface Pro](https://www.microsoft.com/en-ca/p/surface-pro-6)
-{% endcomment %}
 * [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
 * [Nintendo Switch](https://nintendo.com/switch)
 * [Raspberri Pi3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
@@ -42,6 +40,8 @@ You can support me financially through these means
 
 #### Game Development:
 * [Procedural Storytelling in Game Design](https://www.crcpress.com/Procedural-Storytelling-in-Game-Design/Short-Adams/p/book/9781138595309)
+* [The Art of Game Design: A Book of Lenses, Second Edition](https://www.crcpress.com/The-Art-of-Game-Design-A-Book-of-Lenses-Second-Edition/Schell-Schell/p/book/9781466598645)
+* [Game Design Workshop](https://www.gamedesignworkshop.com/)
 
 #### Sexuality
 * [Kama Sutra](https://www.penguinrandomhouse.com/books/310597/kama-sutra-by-vatsyayana/9780143106593) - New translation by Aditya Narayan Dhairyasheel Haksar
