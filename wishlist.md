@@ -37,6 +37,8 @@ You can support me financially through these means
 #### Fiction
 * [The Map of Salt and Stars](https://www.kobo.com/ca/en/ebook/the-map-of-salt-and-stars-1)
 * [ Binti](https://www.kobo.com/ca/en/ebook/binti) or any other novel by [Nnedi Okorafor](https://www.kobo.com/ca/en/search?query=Nnedi%20Okorafor&fcsearchfield=Author)
+* [The Raven Tower](https://www.kobo.com/ca/en/ebook/the-raven-tower)
+* [Snow White Learns Witchcraft](https://www.kobo.com/ca/en/ebook/snow-white-learns-witchcraft-stories-and-poems)
 
 #### Game Development:
 * [Procedural Storytelling in Game Design](https://www.crcpress.com/Procedural-Storytelling-in-Game-Design/Short-Adams/p/book/9781138595309)
