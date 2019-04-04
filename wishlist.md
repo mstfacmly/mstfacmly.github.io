@@ -56,6 +56,7 @@ You can support me financially through these means
 * [Persian Archery and Swordsmanship: Historical Martial Arts of Iran](http://www.moshtaghkhorasani.com/books/persian-archery-and-swordsmanship/)
 * [Thuluth Mastery Book](https://www.amazon.com/Arabic-Calligraphy-Mastery-step-step/dp/1539972488/) - I'd rather not purchase through Amazon, but the only other option is the [PDF version](https://omaruddin.samcart.com/products/thuluth-mastery-ebook)
 * [Superman: Birthright](https://www.dccomics.com/graphic-novels/superman-birthright-2003/superman-birthright)
+* [Superman/Shazam!: First Thunder](https://www.dccomics.com/graphic-novels/supermanshazam-first-thunder-2005/supermanshazam-first-thunder)
 * [PM Press](pmpress.org)
 
 ### Subscriptions
