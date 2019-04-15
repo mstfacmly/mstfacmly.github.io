@@ -15,7 +15,6 @@ You can support me financially through these means
 * [Lenovo Carbon X1](https://www.lenovo.com/ca/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-6th-Gen/p/22TP2TXX16G)
 * [Microsoft Surface Pro](https://www.microsoft.com/en-ca/p/surface-pro-6)
 * [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
-* [Nintendo Switch](https://nintendo.com/switch)
 * [Raspberri Pi3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
 
 ### Games
