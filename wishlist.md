@@ -13,9 +13,11 @@ You can support me financially through these means
 
 ### Hardware
 * [Lenovo Carbon X1](https://www.lenovo.com/ca/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-6th-Gen/p/22TP2TXX16G)
-* [Microsoft Surface Pro](https://www.microsoft.com/en-ca/p/surface-pro-6)
 * [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
 * [Raspberri Pi3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
+{% comment %}
+* [Microsoft Surface Pro](https://www.microsoft.com/en-ca/p/surface-pro-6)
+{% endcomment %}
 
 ### Games
 * [Humble Store](https://www.humblebundle.com/store/wishlist/39099216) - You can also look at my Steam list and purchase the game through the Humble Store. The devs get a better cut, and a percentage of the sale goes to a charity.
