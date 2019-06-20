@@ -29,12 +29,15 @@ You can support me financially through these means
 * [Orientalism](https://www.kobo.com/ca/en/ebook/orientalism-4) - Or anything by [Edward W Said](https://www.kobo.com/ca/en/search?query=edward%20w%20said&fcsearchfield=Author)
 * [An Oral History of the Palestinian Nakba](https://www.zedbooks.net/shop/book/an-oral-history-of-the-palestinian-nakba/)
 * [Islam for the Politically Incorrect](http://www.gilgamesh-publishing.co.uk/islam-for-the-politically-incorrect.html)
+* [PM Press](pmpress.org)
 
 #### Fiction
 * [ Binti](https://www.kobo.com/ca/en/ebook/binti) or any other novel by [Nnedi Okorafor](https://www.kobo.com/ca/en/search?query=Nnedi%20Okorafor&fcsearchfield=Author)
 * [Iraq + 100](https://www.tor.com/2017/07/27/excerpts-hassan-blasim-iraq-100/)
 * [The Raven Tower](https://www.kobo.com/ca/en/ebook/the-raven-tower)
 * [Snow White Learns Witchcraft](https://www.kobo.com/ca/en/ebook/snow-white-learns-witchcraft-stories-and-poems)
+* [Superman: Birthright](https://www.dccomics.com/graphic-novels/superman-birthright-2003/superman-birthright)
+* [Superman/Shazam!: First Thunder](https://www.dccomics.com/graphic-novels/supermanshazam-first-thunder-2005/supermanshazam-first-thunder)
 
 #### Game Development:
 * [Procedural Storytelling in Game Design](https://www.crcpress.com/Procedural-Storytelling-in-Game-Design/Short-Adams/p/book/9781138595309)
@@ -53,9 +56,6 @@ You can support me financially through these means
 ### Other
 * [Persian Archery and Swordsmanship: Historical Martial Arts of Iran](http://www.moshtaghkhorasani.com/books/persian-archery-and-swordsmanship/)
 * [Thuluth Mastery Book](https://www.amazon.com/Arabic-Calligraphy-Mastery-step-step/dp/1539972488/) - I'd rather not purchase through Amazon, but the only other option is the [PDF version](https://omaruddin.samcart.com/products/thuluth-mastery-ebook)
-* [Superman: Birthright](https://www.dccomics.com/graphic-novels/superman-birthright-2003/superman-birthright)
-* [Superman/Shazam!: First Thunder](https://www.dccomics.com/graphic-novels/supermanshazam-first-thunder-2005/supermanshazam-first-thunder)
-* [PM Press](pmpress.org)
 
 ### Subscriptions
 * [Palbox](https://www.palbox.org/)
