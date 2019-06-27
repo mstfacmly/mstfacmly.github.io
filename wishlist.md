@@ -31,11 +31,13 @@ You can support me financially through these means
 * [Orientalism](https://www.kobo.com/ca/en/ebook/orientalism-4) - Or anything by [Edward W Said](https://www.kobo.com/ca/en/search?query=edward%20w%20said&fcsearchfield=Author)
 * [An Oral History of the Palestinian Nakba](https://www.zedbooks.net/shop/book/an-oral-history-of-the-palestinian-nakba/)
 * [Islam for the Politically Incorrect](http://www.gilgamesh-publishing.co.uk/islam-for-the-politically-incorrect.html)
+* [مش حلو لبنت (It’s not nice for a girl)](https://maamoulpress.com/It-s-Not-Nice-For-a-Girl-by-Christina-Atik) - by Christina Atik
 * [PM Press](pmpress.org)
 
 #### Fiction
 * [ Binti](https://www.kobo.com/ca/en/ebook/binti) or any other novel by [Nnedi Okorafor](https://www.kobo.com/ca/en/search?query=Nnedi%20Okorafor&fcsearchfield=Author)
 * [Iraq + 100](https://www.tor.com/2017/07/27/excerpts-hassan-blasim-iraq-100/)
+* [شبيك لبيك (Shubeik Lubeik)](https://maamoulpress.com/Shubeik-Lubeik-By-Deena-Mohamed) - by Deena Mohamed
 * [The Raven Tower](https://www.kobo.com/ca/en/ebook/the-raven-tower)
 * [Snow White Learns Witchcraft](https://www.kobo.com/ca/en/ebook/snow-white-learns-witchcraft-stories-and-poems)
 * [Superman: Birthright](https://www.dccomics.com/graphic-novels/superman-birthright-2003/superman-birthright)
