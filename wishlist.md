@@ -58,6 +58,7 @@ You can support me financially through these means
 ### Other
 * [Persian Archery and Swordsmanship: Historical Martial Arts of Iran](http://www.moshtaghkhorasani.com/books/persian-archery-and-swordsmanship/)
 * [Thuluth Mastery Book](https://www.amazon.com/Arabic-Calligraphy-Mastery-step-step/dp/1539972488/) - I'd rather not purchase through Amazon, but the only other option is the [PDF version](https://omaruddin.samcart.com/products/thuluth-mastery-ebook)
+* [ TED Book: Broken Spaces & Outer Places](https://www.ted.com/read/ted-books/ted-books-library/broken-spaces-outer-places)
 
 ### Subscriptions
 * [Palbox](https://www.palbox.org/)
