@@ -40,7 +40,6 @@ You can support me financially through these means
 * [شبيك لبيك (Shubeik Lubeik)](https://maamoulpress.com/Shubeik-Lubeik-By-Deena-Mohamed) - by Deena Mohamed
 * [The Raven Tower](https://www.kobo.com/ca/en/ebook/the-raven-tower)
 * [Snow White Learns Witchcraft](https://www.kobo.com/ca/en/ebook/snow-white-learns-witchcraft-stories-and-poems)
-* [Superman: Birthright](https://www.dccomics.com/graphic-novels/superman-birthright-2003/superman-birthright)
 * [Superman/Shazam!: First Thunder](https://www.dccomics.com/graphic-novels/supermanshazam-first-thunder-2005/supermanshazam-first-thunder)
 
 #### Game Development:
