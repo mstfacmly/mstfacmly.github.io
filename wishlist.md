@@ -13,11 +13,9 @@ You can support me financially through these means
 
 ### Hardware
 * [Lenovo Carbon X1](https://www.lenovo.com/ca/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-6th-Gen/p/22TP2TXX16G)
+* [Microsoft Surface Pro](https://www.microsoft.com/en-ca/p/surface-pro-6)
 * [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
 * [Raspberri Pi3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
-{% comment %}
-* [Microsoft Surface Pro](https://www.microsoft.com/en-ca/p/surface-pro-6)
-{% endcomment %}
 
 ### Games
 * [Humble Store](https://www.humblebundle.com/store/wishlist/39099216) - You can also look at my Steam list and purchase the game through the Humble Store. The devs get a better cut, and a percentage of the sale goes to a charity.
@@ -40,7 +38,6 @@ You can support me financially through these means
 * [شبيك لبيك (Shubeik Lubeik)](https://maamoulpress.com/Shubeik-Lubeik-By-Deena-Mohamed) - by Deena Mohamed
 * [The Raven Tower](https://www.kobo.com/ca/en/ebook/the-raven-tower)
 * [Snow White Learns Witchcraft](https://www.kobo.com/ca/en/ebook/snow-white-learns-witchcraft-stories-and-poems)
-* [Superman/Shazam!: First Thunder](https://www.dccomics.com/graphic-novels/supermanshazam-first-thunder-2005/supermanshazam-first-thunder)
 
 #### Game Development:
 * [Procedural Storytelling in Game Design](https://www.crcpress.com/Procedural-Storytelling-in-Game-Design/Short-Adams/p/book/9781138595309)
