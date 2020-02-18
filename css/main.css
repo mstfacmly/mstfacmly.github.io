@@ -7,12 +7,49 @@
 	url('/fonts/FiraGO-Light.woff2') format('woff2'),
 	url('/fonts/FiraGO-Thin.woff2') format('woff2');
 }
+@media (prefers-color-scheme: light){
+	body {
+		background-color: azure;
+	}
+	h1,h2,h3,h4,body,p {
+		color: darkslategray;
+	}
+	a {
+		color: darkturquoise;
+	}
+	a:hover {
+		color: darkgoldenrod;
+	}
+}
+
+@media (prefers-color-scheme: dark){
+	h1,h2,h3,h4,body {
+		color: #ddd;
+	}
+	body {
+		background-color: #525252;
+	}
+	.nav{
+		background-image: linear-gradient(to bottom, rgba(82,82,82,1), rgba(82,82,82,0.94), rgba(82,82,82,0.84), rgba(82,82,82,0.64), rgba(82,82,82, 0.11));
+	}
+	/*.nav li:hover{
+		background-color: #474747;
+	}*/
+	p {
+		color: #e2e2e2;
+	}
+	a {
+		color: #9ec356;
+	}
+	a:hover {
+		color: #fec356;
+	}
+}
+
 body {
 	font-family:'FiraGO', 'Noto Sans', 'Sans-Serif';
 	margin: 60px auto;
 	width: 72%;
-	color: #ddd;
-	background-color: #525252;
 }
 .container {
 	min-height: 64vh;
@@ -21,7 +58,6 @@ body {
 .nav {
 	overflow: hidden;
 	position: fixed;
-	background-image: linear-gradient(to bottom, rgba(82,82,82,1), rgba(82,82,82,0.94), rgba(82,82,82,0.84), rgba(82,82,82,0.64), rgba(82,82,82, 0.11));
 	top: 0;
 	left: 0;
 	width:100%;
@@ -31,7 +67,6 @@ body {
 	padding: 0.05rem 0.5rem 0.05rem 0.5rem;
 }
 .nav li:hover{
-	background-color: #474747;
 	border-radius: 0.25rem;
 	transition: background-color 0.1s ease-in;
 }
@@ -53,7 +88,7 @@ body {
 	width: 52vw;
 }
 .container li:hover{
-	background-image: linear-gradient(to right, #474747, #474747, #47474700);
+/*	background-image: linear-gradient(to right, #474747, #474747, #47474700);*/
 	border-radius: 0.25rem;
 	transition: background-color 0.1s ease-in;
 }
@@ -84,37 +119,29 @@ body {
 }
 a {
 	text-decoration: none;
-	color: #9ec356;
 }
 a:hover {
-	color: #fec356;
 	transition: color 0.15s ease-in;
 }
-
 h1 {
 	font-size: 2.7rem;
 	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';
-	color: #ddd;
 }
 h2 {
 	font-size: 2rem;
 	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';
-	color: #ddd;
 }
 h3 {
 	font-size: 1.21rem;
 	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';
-	color: #ddd;
 }
 h4 {
 	font-size: 1.1rem;
 	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';
-	color: #ddd;
 }
 p {
 	font-size: 1.2rem;
 	line-height: 1.42em;
-	color: #e2e2e2;
 }
 footer {
 	border-top: 1px solid #d5d5d5;
