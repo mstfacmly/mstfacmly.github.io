@@ -13466,7 +13466,6 @@ var Engine = {
         } : xhr);
       };
     }
-
   }
 
   function onXHREvent(resolve, reject, file, tracker, ev) {
