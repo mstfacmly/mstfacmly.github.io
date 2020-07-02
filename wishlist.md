@@ -12,7 +12,9 @@ You can support me financially through these means
 * [Society6](https://society6.com/mstfacmly)
 
 ### Hardware
+{%comment%}
 * [Razer BlackWidow Lite X TE](https://www.razer.com/ca-en/gaming-keyboards-keypads/razer-blackwidow-x-tournament-edition)
+{%endcomment%}
 * [Lenovo Carbon X1](https://www.lenovo.com/ca/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-6th-Gen/p/22TP2TXX16G)
 * [Microsoft Surface Pro](https://www.microsoft.com/en-ca/p/surface-pro-6)
 * [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
@@ -29,7 +31,9 @@ You can support me financially through these means
 #### Politics
 * [Orientalism](https://www.kobo.com/ca/en/ebook/orientalism-4) - Or anything by [Edward W Said](https://www.kobo.com/ca/en/search?query=edward%20w%20said&fcsearchfield=Author)
 * [An Oral History of the Palestinian Nakba](https://www.zedbooks.net/shop/book/an-oral-history-of-the-palestinian-nakba/)
+{%comment%}
 * [Islam for the Politically Incorrect](http://www.gilgamesh-publishing.co.uk/islam-for-the-politically-incorrect.html)
+{%endcomment%}
 * [مش حلو لبنت (It’s not nice for a girl)](https://maamoulpress.com/It-s-Not-Nice-For-a-Girl-by-Christina-Atik) - by Christina Atik
 * [PM Press](pmpress.org)
 
