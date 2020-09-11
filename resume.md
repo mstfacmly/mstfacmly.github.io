@@ -1,21 +1,19 @@
 ---
 layout: default
 title: Résumé
-
 ---
 
 <div class="reslinks" markdown="1">
 
-* [fab fa-github]("https://mstfacmly.github.io")
-* [fab fa-medium]({% site.medium %})
-* [fab fa-linkedin-in]({% site.linkedin %})
+* [@fab fa-github](https://mstfacmly.github.io)
+* [@fab fa-medium]({{ site.medium }})
+* [@fab fa-linkedin-in]({{ site.linkedin }})
 
-</div>
+<section class="resume" markdown="1">
 
-<section markdown="1">
 ### About Me
 Game designer, 2D/3D Artist, Animator, Writer, QA Tester <br>
-Currently employed at {% site.employer %}
+Currently employed at {{ site.employer }}
 
 ### Languages
 {% assign langs = site.langs | split: ', ' %}
