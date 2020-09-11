@@ -13,7 +13,7 @@ title: Résumé
 <section id="resume" markdown="1">
 
 ### Blurb
-Game designer, 2D/3D Artist, Animator, Writer, QA Tester
+Game designer, 2D/3D Artist, Animator, Writer, QA Tester <br>
 Currently employed at {% site.employer %}
 
 ### Languages
