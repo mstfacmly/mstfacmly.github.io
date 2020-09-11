@@ -12,7 +12,7 @@ title: Résumé
 
 <section id="resume" markdown="1">
 ### Languages
-{% assign langs = site.langs | remove: 'a little bit of' | remove: 'and' | remove: ',' | split: ' ' %}
+{% assign langs = site.langs | remove: 'a little bit of' | remove: 'and' | split: ', ' %}
 {%- for lang in langs -%}
 {% comment %}
 {% if lang == langs[3] or lang == langs[4] %}
@@ -60,7 +60,7 @@ title: Résumé
 #### Web Design
 * [Memphis Feminist Collective](http://memphisfeministcollective.org/) - Completed the site's setup & added extra CSS rules
 * [Game Curious Montreal](http://gamecuriousmtl.mrgs.ca/) - Updated the website to use Jekyll and added reactive rules for Mobile
-* [This website](/)
+* [This website](https://github.com/mstfacmly/mstfacmly.github.io/) - This page's GitHub repo
 
 <!--div id="contributions" class="contributions" markdown="1">
 ## Coding Contributions:
