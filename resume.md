@@ -75,5 +75,4 @@ Currently employed at {{ site.employer }}
    <li><a href="{{ contribution.html_url }}">{{ contribution.title }}</a></li>
   {% endfor %}
  </ul>
-</section>
 </div-->
