@@ -50,7 +50,7 @@ title: Résumé
 ### Writing
 #### In print
 * [Fourrer Le Feu](https://leslibraires.ca/livres/fourrer-le-feu-marjolaine-beauchamp-9782924682036.html) - Prologue
-* [Grammaire Rebelle](https://www.facebook.com/events/290536951728803/) - Provided with a non-colonialist definition of Falasteen
+* [Grammaire Rebelle](https://www.facebook.com/events/290536951728803/) - Small snippet regarding the term "filistine"
 
 #### Online
 * [Medium]({{ site.medium }})
@@ -59,7 +59,7 @@ title: Résumé
 
 #### Web Design
 * [Memphis Feminist Collective](http://memphisfeministcollective.org/) - Completed the site's setup & added extra CSS rules
-* [Game Curious Montreal](http://gamecuriousmtl.mrgs.ca/) - Updated the website to use Jekyll
+* [Game Curious Montreal](http://gamecuriousmtl.mrgs.ca/) - Updated the website to use Jekyll and added reactive rules for Mobile
 * [This website](/)
 
 <!--div id="contributions" class="contributions" markdown="1">
