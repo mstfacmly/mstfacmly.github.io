@@ -20,7 +20,8 @@ I also unabashedly love [Superman](/superman).
 [Aquarius Ascendent](https://www.starslikeyou.com.au/your-astrology-profile/your-ascendant-is-aquarius/)
 {% endcomment %}
 
+Laptop: [{{ site.laptop }}]({{ site.laptopsite }})<br>
 OS: [{{ site.OS }}]({{ site.OSsite }}) <br>
+Console: [{{ site.console }}]({{ site.consolesite }}]<br>
 Browser: [{{ site.browser}}]({{ site.browsersite }})<br>
 Phone OS: [{{ site.phoneOS }}]({{ site.phoneOSsite }})
-
