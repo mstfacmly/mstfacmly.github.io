@@ -3,7 +3,7 @@ description: Personal website & résumé for mstfa cmly
 url: https://mstfacmly.com
 author: mstfa cmly
 birthday: '1984-04-11 00:00:00 +0300'
-langs: العربية, English, French, a little bit of Spanish and Italian
+langs: العربية, English, French, Spanish, Italian
 proglangs: Python, GDScript, & Web languages (HTML, CSS, Markdown, Liquid)
 OS: Ubuntu
 OSsite: https://ubuntu.com
@@ -26,6 +26,7 @@ steam: mstfacmly
 discord: mstfacmly#1855
 linkedin: https://www.linkedin.com/in/mstfacmly
 rss: atom.xml
+employer: Enzyme Testing Labs / WB Games Montreal
 
 #remote-theme: fongandrew/hydeout
 permalink: pretty #/blog/:year/:month/:day/:title
