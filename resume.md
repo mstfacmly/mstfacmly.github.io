@@ -11,6 +11,7 @@ title: Résumé
 </div>
 
 <section id="resume" markdown="1">
+
 ### Blurb
 Game designer, 2D/3D Artist, Animator, Writer, QA Tester
 Currently employed at {% site.employer %}
