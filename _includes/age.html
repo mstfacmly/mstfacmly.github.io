@@ -1,7 +1,7 @@
 {% assign nowSecs = site.time | date: '%s' %}
 {% assign birthdaySecs = site.birthday | date: '%s' %}
 {% assign ageSecs = nowSecs | minus: birthdaySecs %}
-{% assign age = ageSecs | divided_by: 86400 %}
+{% assign age = ageSecs | divided_by: 86400 | divided_by: 364.2422 %}
 
 {%comment%}
 60 | divided_by: 60 | divided_by: 24 | divided_by: 364.2422 %}
