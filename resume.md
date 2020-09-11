@@ -17,7 +17,7 @@ Game designer, 2D/3D Artist, Animator, Writer, QA Tester <br>
 Currently employed at {% site.employer %}
 
 ### Languages
-{% assign langs = site.langs | remove: ',' | split: ' ' %}
+{% assign langs = site.langs | split: ', ' %}
 {%- for lang in langs -%}
 {% comment %}
 {% if lang == langs[3] or lang == langs[4] %}
