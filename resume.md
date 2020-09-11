@@ -11,6 +11,10 @@ title: Résumé
 </div>
 
 <section id="resume" markdown="1">
+### Blurb
+Game designer, 2D/3D Artist, Animator, Writer, QA Tester
+Currently employed at {% site.employer %}
+
 ### Languages
 {% assign langs = site.langs | remove: 'a little bit of' | remove: 'and' | remve: ',' | split: ' ' %}
 {%- for lang in langs -%}
@@ -53,13 +57,13 @@ title: Résumé
 * [Grammaire Rebelle](https://www.facebook.com/events/290536951728803/) - Small snippet regarding the term "filistine"
 
 #### Online
-* [Medium]({{ site.medium }})
-* [Multijoueur](https://multijoueur.ca/author/mchamli/) - Writer
-* [Geekbecois](https://geekbecois.com/author/moustafa/) - Collaborator
+* [Medium]({{ site.medium }}) - General writing
+* [Multijoueur](https://multijoueur.ca/author/mchamli/) - Writer (Reviews, Op-Eds)
+* [Geekbecois](https://geekbecois.com/author/moustafa/) - Collaborator (Reviews, Op-Eds, journalistic blurbs)
 
 #### Web Design
-* [Memphis Feminist Collective](http://memphisfeministcollective.org/) - Completed the site's setup & added extra CSS rules
-* [Game Curious Montreal](http://gamecuriousmtl.mrgs.ca/) - Updated the website to use Jekyll and added reactive rules for Mobile
+* [Memphis Feminist Collective](http://memphisfeministcollective.org/) - Completing the site's setup & added extra CSS rules
+* [Game Curious Montreal](http://gamecuriousmtl.mrgs.ca/) - Updating the website to use Jekyll and adding reactive rules for mobile use
 * [This website](https://github.com/mstfacmly/mstfacmly.github.io/) - This page's GitHub repo
 
 <!--div id="contributions" class="contributions" markdown="1">
