@@ -5,8 +5,8 @@ title: Résumé
 <div class="reslinks" markdown="1">
 
 * [fab fa-github]("https://mstfacmly.github.io")
-* [fab fa-medium]({{ site.medium }})
-* [fab fa-linkedin-in]({{ site.linkedin }})
+* [fab fa-medium]({% site.medium %})
+* [fab fa-linkedin-in]({% site.linkedin %})
 
 </div>
 
