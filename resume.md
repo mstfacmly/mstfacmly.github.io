@@ -12,7 +12,7 @@ title: Résumé
 
 <section id="resume" markdown="1">
 ### Languages
-{% assign langs = site.langs | remove: 'a little bit of' | remove: 'and' | split: ', ' %}
+{% assign langs = site.langs | remove: 'a little bit of' | remove: 'and' | remve: ',' | split: ' ' %}
 {%- for lang in langs -%}
 {% comment %}
 {% if lang == langs[3] or lang == langs[4] %}
