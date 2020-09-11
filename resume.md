@@ -9,6 +9,8 @@ title: Résumé
 * <a href="{{ site.medium }}"><i class="fab fa-medium"></i></a>
 * <a href="{{ site.linkedin }}"><i class="fab fa-linkedin-in"></i></a>
 
+</div>
+
 <section class="resume" markdown="1">
 
 ### About Me
