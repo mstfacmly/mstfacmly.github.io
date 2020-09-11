@@ -9,7 +9,7 @@ title: Résumé
 * <a href="{{ site.linkedin }}"><i class="fab fa-linkedin-in"></i></a>
 </div>
 
-<section="resume" markdown="1">
+<section class="resume" markdown="1">
 
 ### About Me
 Game designer, 2D/3D Artist, Animator, Writer, QA Tester <br>
