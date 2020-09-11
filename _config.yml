@@ -9,8 +9,8 @@ OS: Ubuntu
 OSsite: https://ubuntu.com
 browser: Firefox
 browsersite: https://firefox.com
-phoneOS: Android Oreo
-phoneOSsite: https://www.android.com/versions/oreo-8-0/
+phoneOS: Android 10
+phoneOSsite: https://www.android.com/
 
 #contact info
 email: mstfacmly@studioslune.com
