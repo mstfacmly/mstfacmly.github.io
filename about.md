@@ -22,6 +22,6 @@ I also unabashedly love [Superman](/superman).
 
 Laptop: [{{ site.laptop }}]({{ site.laptopsite }})<br>
 OS: [{{ site.OS }}]({{ site.OSsite }}) <br>
-Console: [{{ site.console }}]({{ site.consolesite }}]<br>
+Console: [{{ site.console }}]({{ site.consolesite }})<br>
 Browser: [{{ site.browser}}]({{ site.browsersite }})<br>
 Phone OS: [{{ site.phoneOS }}]({{ site.phoneOSsite }})
