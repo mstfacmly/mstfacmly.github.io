@@ -7,9 +7,10 @@ title: Résumé
 * <a href="https://mstfacmly.github.io"><i class="fab fa-github"></i></a>
 * <a href="{{ site.medium }}"><i class="fab fa-medium"></i></a>
 * <a href="{{ site.linkedin }}"><i class="fab fa-linkedin-in"></i></a>
-</div>
-<section id="resume" markdown="1">
 
+</div>
+
+<section id="resume" markdown="1">
 ### About Me
 Game designer, 2D/3D Artist, Animator, Writer, QA Tester <br>
 Currently employed at {% site.employer %}
