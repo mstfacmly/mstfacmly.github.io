@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Résumé
+
 ---
+
 <div class="reslinks" markdown="1">
 
 * [fab fa-github]("https://mstfacmly.github.io")
