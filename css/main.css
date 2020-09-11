@@ -12,10 +12,10 @@
 		background-color: azure;
 	}
 	h1,h2,h3,h4,body,p {
-		color: darkslategray;
+		color: #008284;
 	}
 	a {
-		color: darkturquoise;
+		color: #008284;
 	}
 	a:hover {
 		color: darkgoldenrod;
