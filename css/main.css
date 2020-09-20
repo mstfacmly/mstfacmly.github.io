@@ -50,7 +50,7 @@
 		color: #fec356;
 	}
 }
-
+ 
 body {
 	font-family:'FiraGO', 'Noto Sans', 'Sans-Serif';
 	margin: 60px auto;
@@ -130,19 +130,19 @@ a:hover {
 }
 h1 {
 	font-size: 2.7rem;
-	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';
+	font-family:'FiraGO Light', 'Noto Sans', 'Helvetica', 'Sans-Serif';
 }
 h2 {
 	font-size: 2rem;
-	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';
+	font-family:'FiraGO Light', 'Noto Sans', 'Helvetica', 'Sans-Serif';
 }
 h3 {
 	font-size: 1.21rem;
-	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';
+	font-family:'FiraGO Light', 'Noto Sans', 'Helvetica', 'Sans-Serif';
 }
 h4 {
 	font-size: 1.1rem;
-	font-family:'FiraGO Thin', 'Noto Sans', 'Helvetica', 'Sans-Serif';
+	font-family:'FiraGO Light', 'Noto Sans', 'Helvetica', 'Sans-Serif';
 }
 p {
 	font-size: 1.2rem;
