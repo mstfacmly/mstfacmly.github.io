@@ -1,13 +1,13 @@
 @font-face {
 	font-family: 'FiraGO';
-	src: url('/fonts/FiraGO-Regular.woff') format('woff'),
-		url('/fonts/FiraGO-Regular.woff2') format('woff2');
+	src: url('/fonts/FiraGO-Regular.woff2') format('woff2'),
+		url('/fonts/FiraGO-Regular.woff') format('woff');
 	font-family: 'FiraGO Light';
-	src: url('/fonts/FiraGO-Light.woff') format('woff'),
-		url('/fonts/FiraGO-Light.woff2') format('woff2');
+	src: url('/fonts/FiraGO-Light.woff2') format('woff2'),
+		url('/fonts/FiraGO-Light.woff') format('woff');
 	font-family: 'FiraGO Thin';
-	src: url('/fonts/FiraGO-Thin.woff') format('woff'),
-		url('/fonts/FiraGO-Thin.woff2') format('woff2');
+	src: url('/fonts/FiraGO-Thin.woff2') format('woff2'),
+		url('/fonts/FiraGO-Thin.woff') format('woff');
 }
 @media (prefers-color-scheme: light){
 	body {
