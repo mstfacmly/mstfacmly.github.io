@@ -22,7 +22,7 @@
 		color: #darkslategray;
 	}
 	.nav{
-		background-image: linear-gradient(to bottom, #azure, #00ced100, #00cef000);
+		background-image: linear-gradient(to bottom, azure, #00ced100, #00cef000);
 	}
 	a {
 		color: #008284;
