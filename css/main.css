@@ -40,7 +40,7 @@
 		background-color: #525252;
 	}
 	.nav{
-		background-image: linear-gradient(to bottom, #525252, #52525200);
+		background-image: linear-gradient(to bottom, #525252, #525252d4,#5252522e);
 	}
 	/*.nav li:hover{
 		background-color: #474747;
