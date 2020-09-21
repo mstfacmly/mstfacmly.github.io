@@ -19,7 +19,7 @@
 		background-color: azure;
 	}
 	h1,h2,h3,h4,body,p {
-		color: #darkslategray;
+		color: darkslategrey;
 	}
 	.nav{
 		background-image: linear-gradient(to bottom, azure, #f0ffffd4, #f0ffff00);
