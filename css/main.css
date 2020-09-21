@@ -22,13 +22,13 @@
 		color: #darkslategray;
 	}
 	.nav{
-		background-image: linear-gradient(to bottom, azure, #f0ffffd4, #f0ffff3d);
+		background-image: linear-gradient(to bottom, azure, #f0ffffd4, #f0ffff00);
 	}
 	a {
 		color: #008284;
 	}
 	a:hover {
-		color: darkgoldenrod;
+		color: darkorange;
 	}
 }
 
@@ -40,7 +40,7 @@
 		background-color: #525252;
 	}
 	.nav{
-		background-image: linear-gradient(to bottom, #525252, #525252d4,#5252522e);
+		background-image: linear-gradient(to bottom, #525252, #525252d4,#52525200);
 	}
 	/*.nav li:hover{
 		background-color: #474747;
