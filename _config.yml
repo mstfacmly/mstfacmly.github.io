@@ -7,8 +7,8 @@ langs: العربية , English , French , Spanish , Italian
 proglangs: Python, GDScript, & Web languages (HTML, CSS, Markdown, Liquid)
 laptop: Lenovo Thinkpad 14s (AMD)
 laptopsite: https://www.lenovo.com/ca/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T14s-AMD-G1/p/22TPT144SA2
-OS: Pop!OS
-OSsite: https://pop.system76.com
+OS: Fedora
+OSsite: https://getfedora.org
 console: Xbox One X
 consolesite: https://www.xbox.com/en-CA/consoles/xbox-one-x
 browser: Firefox
