@@ -32,6 +32,7 @@ You can support me financially through these means
 #### Politics
 * [Orientalism](https://www.kobo.com/ca/en/ebook/orientalism-4) - Or anything by [Edward W Said](https://www.kobo.com/ca/en/search?query=edward%20w%20said&fcsearchfield=Author)
 * [An Oral History of the Palestinian Nakba](https://www.zedbooks.net/shop/book/an-oral-history-of-the-palestinian-nakba/)
+* [Occypied by Memory: The Intifada Generation and the Palestinian State of Emergency](https://mtlshop.drawnandquarterly.com/?q=h.reports.iv&eisbn=DPbziv2lOhv9A4uw8W-2Ew) - Ghassan Kanafani
 {%comment%}
 * [Islam for the Politically Incorrect](http://www.gilgamesh-publishing.co.uk/islam-for-the-politically-incorrect.html)
 {%endcomment%}
