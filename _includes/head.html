@@ -4,13 +4,11 @@
 	<!-- link to main stylesheet -->
 	<link rel="stylesheet" type="text/css" href="/css/main.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
-	<!--link rel="stylesheet" href="/style/fonts/FiraGO-Regular.woff2">
-	<link rel="stylesheet" href="/style/fonts/FiraGO-Light.woff2">
-	<link rel="stylesheet" href="/style/fonts/FiraGO-Thin.woff2"-->
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Sans|Noto+Sans"> 
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+	<script src="https://kit.fontawesome.com/46ab85268a.js" crossorigin="anonymous"></script>
 	<script src="/scripts/nav.js"></script>
 	<script src="/scripts/progbar.js"></script>
+	<script type="module" src="https://unpkg.com/dark-mode-toggle"></script>
 	<script> 
 		var $buoop = {required:{e:-4,f:-3,o:-3,s:-1,c:-3},insecure:true,api:2020.09 }; 
 		function $buo_f(){ 
@@ -21,4 +19,7 @@
 		try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
 		catch(e){window.attachEvent("onload", $buo_f)}
 	</script>
+	{% if page.noindex == true %}
+		<meta name="robots" content="noindex">
+	{%endif%}
 </head>
