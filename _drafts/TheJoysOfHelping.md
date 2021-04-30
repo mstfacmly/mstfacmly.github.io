@@ -137,9 +137,10 @@ For those not in the know, that's from Action Comics #775 (later adapted into Su
 
 Even stylistically, Snyder chose a colour grading similar to that of the first Matrix film. A gradient that [Bill Pope and John Gaeta chose to kill any feeling hopefulness in the film, and make the audience feel uneasy](https://scifi.stackexchange.com/a/129322). Even the real-world "blue" gradient was intensified in order to preserve the idea of a colder world, in which humanity had some, but very little, hope of surviving the war with the machines. The colours in the Matrix films were so effective, that the first time we see an actual blue sky in both the real world and within the Matrix itself, there's an elation, a feeling that this could be the dawn of a new era. Maybe Snyder chose that gradient with intent, or maybe he did because he thought it looked cool and more grounded. The former would further confirm that all that talk and posturing about how "it means Hope" was just that: talk and posturing. The latter basically states that Zack Snyder, for all of his pretense of being an auteur, is only one slow motion walk away from Michael Bay.
 
+{%comment%}
 ## notes for later:
 Zack Snyder -- [Batman drops the f-bomb](https://ew.com/movies/zack-snyders-justice-league-theaters-r-rated/) - his need to insert rapes (300), or sexualizing a rape (Watchmen).
 With a single quote from Frank Miller's Dark Knight Returns, Zack Snyder told the world that eiter upper management had indeed panicked, and elected to insert Batman into the follow-up film, or that he [didn't have any idea what to do next](https://www.cinemablend.com/new/Batman-V-Superman-Co-Writer-Once-Dismissed-Idea-Was-He-Right-121707.html). According to Snyder, this was the plan all along. 
 
 Note: I had started working on this piece in November of 2020.
-
+{%endcomment%}
