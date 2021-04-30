@@ -18,7 +18,7 @@ Then came [San Diego Comic Con 2013](BvS announcement). But I'm getting ahead of
 
 Before going further I need to mention that I personally don't have a problem with the idea of Superman killing. The "no kill" rule was basically an addition of McCarthyism, in which the U.S. government was blaming entertainment to be the cause of all sorts of so-called "anti-American" thought (a list which includes Communism, homosexuality, and threatening to throw people in positions of authority who abused their powers out of a window). That McCarthy's policies were put in place after the mid-to-late-1940s and after the collapse of the KKK -- an event which Superman had an indirect hand via the radio play -- demonstrates what the government of the time considered to be "anti-American."
 
-From the earliest storties, Superman was written in a style similar to the pulp adventure heroes of the time -- notably the Barsoom series -- which often ended with the villain du jour perishing at the hands of their own folly, or as a result of the protagonist letting them perish. This eventually was cleared out in favor of the no kill rule, and later tellings found a fairly universal explanation as to why a demigod would choose to not take a life.
+From the earliest stories, Superman was written in a style similar to the pulp adventure heroes of the time -- notably the Barsoom series -- which often ended with the villain du jour perishing at the hands of their own folly, or as a result of the protagonist letting them perish. This eventually was cleared out in favor of the no kill rule, and later tellings found a fairly universal explanation as to why a demigod of limitless power would choose to not take a life. It usually boiled down to the idea of how responsability grows exponentially with the amount of power one weilds.
 
 I'm mentioning this now in the preface in order to preemptively avoid responses of the "you just don't get it" type, as I elaborate on why the Zod neck snap didn't land in Man of Steel later in the essay.
 
@@ -45,9 +45,9 @@ While this isn't a piece specifically about about some of the film's glaring iss
 * But mainly after having a chat with a priest about how he must be sacrificed to save humanity before humanity could even care about his existence
 * The film's refusal to touch upon the rebuilding of Metropolis
 * Clark and Lois' relationship in spite of a lack of a chemistry or set up or build up
-* How Clark has a job at the Daily Planet in spite of no (presented) past writing
+* How Clark has a job at the Daily Planet in spite of no (presented) past writing experience
 * Clark's unwillingness to do his job as busboy and somewhat bouncer and throw out a trucker harassing a waitress, and instead choosing to jam a bunch of logs into the trucker's vehicle
-* How Zod and the other Kryptonians wanted to terraform Earth rather than...any of the other nearby planets, or how Kal doesn't even bring up that possibility instead of sheepishly pleading "No! Zod! I can't take part of this! Zod! ZOOOD!"
+* How Zod and the other Kryptonians insistence on terraforming Earth rather than...any of the other nearby planets, or how Kal doesn't even bring up that possibility instead of sheepishly pleading "No! Zod! I can't take part of this! Zod! ZOOOD!"
 
 A number of the above problems could be levied at other Superman movies, except those other films weren't presenting themselves as "more realistic, gritty, adult" versions of Superman.
 
@@ -69,7 +69,7 @@ Another example of how the Superman of each film demonstrated their dedication t
 * In Superman, when Clark is laying Lois' dead body on the ground, he lets out a momentary gasp as he feared injuring her. She was dead, and he still put in the effort of treating her as if she could get hurt.
 * In Man of Steel, as the battle with Zod rages on, Zod shoves a Lexcorp fuel truck at Kal, which he immediately chooses to...hover over as if it was an annoyance.
 
-In fact, the latter example bears a striking resemblance to the more similar Superman II scene in which Zod launches a bus full of people, in spite of Clark's pleading, and where Clark takes the full blow of the bus in order to avert the passengers' death.
+In fact, the latter example bears a striking resemblance to the more similar Superman II scene in which Zod launches a bus full of people, in spite of Clark's pleading, and where Clark takes the full blow of the bus in order to avert the passengers' death. Put as a mirror to reflect on, the action scenes in Man of Steel more often than not demonstrated how little consideration Kal put to preserving life.
 
 Stepping away from the Donner film(s) as examples, let's go for the comics.
 * **Superman: Birthright:** Clark fights a desperate battle in Metropolis against a false invading Kryptonian army while Luthor is projecting kryptonite radiation in the city's atmosphere, all while having to show the people of Metropolis that he's on their side, and taking hits from the people he's trying to protect. It's ultimately his perseverance that wins the crowd over, especially after his saves a child in the most "I am here to help" display possible.
