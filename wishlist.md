@@ -12,13 +12,13 @@ You can support me financially through these means
 * [Society6](https://society6.com/mstfacmly)
 
 ### Hardware
+* [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
+* [Raspberri Pi3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
 {%comment%}
 * [Razer BlackWidow Lite X TE](https://www.razer.com/ca-en/gaming-keyboards-keypads/razer-blackwidow-x-tournament-edition)
 * [Lenovo Carbon X1](https://www.lenovo.com/ca/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-6th-Gen/p/22TP2TXX16G)
 * [Microsoft Surface Pro](https://www.microsoft.com/en-ca/p/surface-pro-6)
 {%endcomment%}
-* [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
-* [Raspberri Pi3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
 
 ### Games
 * [Xbox](https://www.microsoft.com/en-ca/store/wishlist)
@@ -33,11 +33,11 @@ You can support me financially through these means
 * [Orientalism](https://www.kobo.com/ca/en/ebook/orientalism-4) - Or anything by [Edward W Said](https://www.kobo.com/ca/en/search?query=edward%20w%20said&fcsearchfield=Author)
 * [An Oral History of the Palestinian Nakba](https://www.zedbooks.net/shop/book/an-oral-history-of-the-palestinian-nakba/)
 * [Occypied by Memory: The Intifada Generation and the Palestinian State of Emergency](https://mtlshop.drawnandquarterly.com/?q=h.reports.iv&eisbn=DPbziv2lOhv9A4uw8W-2Ew) - Ghassan Kanafani
+* [مش حلو لبنت (It’s not nice for a girl)](https://maamoulpress.com/It-s-Not-Nice-For-a-Girl-by-Christina-Atik) - by Christina Atik
+* [PM Press](pmpress.org)
 {%comment%}
 * [Islam for the Politically Incorrect](http://www.gilgamesh-publishing.co.uk/islam-for-the-politically-incorrect.html)
 {%endcomment%}
-* [مش حلو لبنت (It’s not nice for a girl)](https://maamoulpress.com/It-s-Not-Nice-For-a-Girl-by-Christina-Atik) - by Christina Atik
-* [PM Press](pmpress.org)
 
 #### Fiction
 * [ Binti](https://www.kobo.com/ca/en/ebook/binti) or any other novel by [Nnedi Okorafor](https://www.kobo.com/ca/en/search?query=Nnedi%20Okorafor&fcsearchfield=Author)
