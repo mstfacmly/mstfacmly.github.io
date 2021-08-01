@@ -43,6 +43,8 @@ You can support me financially through these means
 * [ Binti](https://www.kobo.com/ca/en/ebook/binti) or any other novel by [Nnedi Okorafor](https://www.kobo.com/ca/en/search?query=Nnedi%20Okorafor&fcsearchfield=Author)
 * [Iraq + 100](https://www.tor.com/2017/07/27/excerpts-hassan-blasim-iraq-100/)
 * [شبيك لبيك (Shubeik Lubeik)](https://maamoulpress.com/Shubeik-Lubeik-By-Deena-Mohamed) - by Deena Mohamed
+* [Son of the Storm](https://www.indiebound.org/book/9780316428941) - Suyi Davies Okungbowa
+* [The Years of Rice and Salt](https://www.kimstanleyrobinson.info/node/345)
 * [The Raven Tower](https://www.kobo.com/ca/en/ebook/the-raven-tower)
 * [Snow White Learns Witchcraft](https://www.kobo.com/ca/en/ebook/snow-white-learns-witchcraft-stories-and-poems)
 
@@ -60,10 +62,14 @@ You can support me financially through these means
 #### Cooking
 * [Palestine on a Plate](http://www.palestineonaplate.com/)
 
-### Other
+#### Other
 * [Persian Archery and Swordsmanship: Historical Martial Arts of Iran](http://www.moshtaghkhorasani.com/books/persian-archery-and-swordsmanship/)
 * [Thuluth Mastery Book](https://www.amazon.com/Arabic-Calligraphy-Mastery-step-step/dp/1539972488/) - I'd rather not purchase through Amazon, but the only other option is the [PDF version](https://omaruddin.samcart.com/products/thuluth-mastery-ebook)
-* [ TED Book: Broken Spaces & Outer Places](https://www.ted.com/read/ted-books/ted-books-library/broken-spaces-outer-places)
+* [TED Book: Broken Spaces & Outer Places](https://www.ted.com/read/ted-books/ted-books-library/broken-spaces-outer-places)
+* [The Ends of the World](https://www.kobo.com/ca/en/ebook/the-ends-of-the-world) -  Volcanic Apocalypses, Lethal Oceans, and Our Quest to Understand Earth's Past Mass Extinctions by Peter Brannen
+
+### Clothing
+* [Be humble, but let motherf\*ckers know](https://embattledclothing.com/collections/mb-universe/products/be-humble-moon-white-tank-top) tank top
 
 ### Subscriptions
 * [Palbox](https://www.palbox.org/)
