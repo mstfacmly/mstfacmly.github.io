@@ -47,14 +47,17 @@ Currently employed at {{ site.employer }}
 {% endcomment %}
 
 ### Games
+* [Gotham Knights](https://www.gothamknightsgame.com/en-us) - Rendering DevQA - Providing first point of contact support to the rendering team, providing with direct support to engine issues for the developers; Promotion team - Assuring Engine stability & functionality
+* [LEGO Star Wars: The Skywalker Saga](https://www.starwars.com/games-apps/lego-star-wars-the-skywalker-saga) - Functionality QA tester - Creating and updating productivity aids which helped simplify the workflow for other testers
+* [Hogwarts Legacy](https://www.hogwartslegacy.com/en-gb) - Functionality QA tester - Creating and assigning test cases, direct communication with the designers to assess their testing needs and provide feedback as needed
+* [الأخرة (in development)](https://studioslune.com/projects/alakhira) - Game, Narrative, and Art Direction, Character Designer, 3D Artist, Animator, Programmer
 * [Sig: the City Between](https://genesisoflegend.com/products/sig) - Interior Artwork
 * [The Other Room](http://minorityvr.com) - Game and Narrative Consultant
-* [الأخرة (in development)](https://studioslune.com/projects/alakhira) - Game, Narrative, and Art Direction, Character Designer, 3D Artist, Animator, Programmer
 
 ### Writing
 #### In print
 * [Fourrer Le Feu](https://leslibraires.ca/livres/fourrer-le-feu-marjolaine-beauchamp-9782924682036.html) - Prologue
-* [Grammaire Rebelle](https://www.facebook.com/events/290536951728803/) - Small snippet regarding the term "filistine"
+* [Grammaire Rebelle](https://www.facebook.com/events/290536951728803/) - Small snippet 
 
 #### Online
 * [Medium]({{ site.medium }}) - General writing
