@@ -35,6 +35,7 @@ You can support me financially through these means
 * [Occypied by Memory: The Intifada Generation and the Palestinian State of Emergency](https://mtlshop.drawnandquarterly.com/?q=h.reports.iv&eisbn=DPbziv2lOhv9A4uw8W-2Ew) - Ghassan Kanafani
 * [مش حلو لبنت (It’s not nice for a girl)](https://maamoulpress.com/It-s-Not-Nice-For-a-Girl-by-Christina-Atik) - by Christina Atik
 * [PM Press](pmpress.org)
+* [The Arabs from Alexander the Great until the Islamic Conquests](https://www.jadaliyya.com/Details/43125/Ayad-Al-Ani,-The-Arabs-from-Alexander-the-Great-until-the-Islamic-Conquests-Orientalist-Perceptions-and-Contemporary-Conflicts-New-Texts-Out-Now): Orientalist Perceptions and Contemporary Conflicts - by Ayad Al-Ani
 {%comment%}
 * [Islam for the Politically Incorrect](http://www.gilgamesh-publishing.co.uk/islam-for-the-politically-incorrect.html)
 {%endcomment%}
