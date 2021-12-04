@@ -66,6 +66,7 @@ You can support me financially through these means
 
 #### Cooking
 * [Palestine on a Plate](http://www.palestineonaplate.com/)
+* [Sideshow Collectibles](https://www.sideshow.com/wishlist/beb6a66c456fd252087c6d99391f36a8)
 
 #### Other
 * [Persian Archery and Swordsmanship: Historical Martial Arts of Iran](http://www.moshtaghkhorasani.com/books/persian-archery-and-swordsmanship/)
