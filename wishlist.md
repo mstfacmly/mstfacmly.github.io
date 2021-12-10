@@ -36,6 +36,7 @@ You can support me financially through these means
 * [مش حلو لبنت (It’s not nice for a girl)](https://maamoulpress.com/It-s-Not-Nice-For-a-Girl-by-Christina-Atik) - by Christina Atik
 * [PM Press](pmpress.org)
 * [The Arabs from Alexander the Great until the Islamic Conquests](https://www.jadaliyya.com/Details/43125/Ayad-Al-Ani,-The-Arabs-from-Alexander-the-Great-until-the-Islamic-Conquests-Orientalist-Perceptions-and-Contemporary-Conflicts-New-Texts-Out-Now): Orientalist Perceptions and Contemporary Conflicts - by Ayad Al-Ani
+* [The Politics of Frida Kahlo](https://www.bookdepository.com/Politics-Frida-Kahlo-Fernando-Meisenhalter/9781719915670) -  by Fernando Meisenhalter
 {%comment%}
 * [Islam for the Politically Incorrect](http://www.gilgamesh-publishing.co.uk/islam-for-the-politically-incorrect.html)
 {%endcomment%}
