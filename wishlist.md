@@ -75,6 +75,9 @@ You can support me financially through these means
 * [TED Book: Broken Spaces & Outer Places](https://www.ted.com/read/ted-books/ted-books-library/broken-spaces-outer-places)
 * [The Ends of the World](https://www.kobo.com/ca/en/ebook/the-ends-of-the-world) -  Volcanic Apocalypses, Lethal Oceans, and Our Quest to Understand Earth's Past Mass Extinctions by Peter Brannen
 
+### Collectibles
+* [Sideshow](https://www.sideshow.com/wishlist/beb6a66c456fd252087c6d99391f36a8)
+
 ### Clothing
 * [Be humble, but let motherf\*ckers know](https://embattledclothing.com/collections/mb-universe/products/be-humble-moon-white-tank-top) tank top
 
