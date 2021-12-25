@@ -30,7 +30,6 @@ You can support me financially through these means
 ### Books
 
 #### Politics
-* [Orientalism](https://www.kobo.com/ca/en/ebook/orientalism-4) - Or anything by [Edward W Said](https://www.kobo.com/ca/en/search?query=edward%20w%20said&fcsearchfield=Author)
 * [An Oral History of the Palestinian Nakba](https://www.zedbooks.net/shop/book/an-oral-history-of-the-palestinian-nakba/)
 * [Occypied by Memory: The Intifada Generation and the Palestinian State of Emergency](https://mtlshop.drawnandquarterly.com/?q=h.reports.iv&eisbn=DPbziv2lOhv9A4uw8W-2Ew) - Ghassan Kanafani
 * [مش حلو لبنت (It’s not nice for a girl)](https://maamoulpress.com/It-s-Not-Nice-For-a-Girl-by-Christina-Atik) - by Christina Atik
@@ -51,8 +50,7 @@ You can support me financially through these means
 * [Snow White Learns Witchcraft](https://www.kobo.com/ca/en/ebook/snow-white-learns-witchcraft-stories-and-poems)
 
 #### Superman
-* [Miracle Monday](https://www.amazon.ca/dp/1544943261/ref=cm_sw_r_tw_dp_RT6P7YM0X2ZC7PY5F27W) - Elliot S! Maggin
-* [Last Son of Krypton](https://www.amazon.ca/dp/1722244593/ref=cm_sw_r_tw_dp_FD9K47Q23T4D9RP887DY?_encoding=UTF8&psc=1) - Elliot S! Maggin
+* 
 
 #### Game Development:
 * [Procedural Storytelling in Game Design](https://www.crcpress.com/Procedural-Storytelling-in-Game-Design/Short-Adams/p/book/9781138595309)
@@ -66,8 +64,7 @@ You can support me financially through these means
 * [Love Not Given Lightly](https://www.kobo.com/ca/en/ebook/love-not-given-lightly-1)
 
 #### Cooking
-* [Palestine on a Plate](http://www.palestineonaplate.com/)
-* [Sideshow Collectibles](https://www.sideshow.com/wishlist/beb6a66c456fd252087c6d99391f36a8)
+* 
 
 #### Other
 * [Persian Archery and Swordsmanship: Historical Martial Arts of Iran](http://www.moshtaghkhorasani.com/books/persian-archery-and-swordsmanship/)
