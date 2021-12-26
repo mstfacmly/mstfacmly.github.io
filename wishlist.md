@@ -14,6 +14,7 @@ You can support me financially through these means
 ### Hardware
 * [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
 * [Raspberri Pi3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
+* [Satiator](https://www.satiator.net/Satiator_p_12.html)
 {%comment%}
 * [Razer BlackWidow Lite X TE](https://www.razer.com/ca-en/gaming-keyboards-keypads/razer-blackwidow-x-tournament-edition)
 * [Lenovo Carbon X1](https://www.lenovo.com/ca/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-6th-Gen/p/22TP2TXX16G)
