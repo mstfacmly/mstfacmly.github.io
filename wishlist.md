@@ -13,8 +13,10 @@ You can support me financially through these means
 
 ### Hardware
 * [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
+* [Iwata Revolution HP-CR airbrush](https://www.coastairbrush.com/proddetail.asp?prod=Revolution_HP-CR)
 * [Raspberri Pi3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
 * [Satiator](https://www.satiator.net/Satiator_p_12.html)
+* [WingmanXB](https://shop.brookaccessory.com/en/products/wingman_xb)
 {%comment%}
 * [Razer BlackWidow Lite X TE](https://www.razer.com/ca-en/gaming-keyboards-keypads/razer-blackwidow-x-tournament-edition)
 * [Lenovo Carbon X1](https://www.lenovo.com/ca/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-6th-Gen/p/22TP2TXX16G)
@@ -32,7 +34,7 @@ You can support me financially through these means
 
 #### Politics
 * [An Oral History of the Palestinian Nakba](https://www.zedbooks.net/shop/book/an-oral-history-of-the-palestinian-nakba/)
-* [Occypied by Memory: The Intifada Generation and the Palestinian State of Emergency](https://mtlshop.drawnandquarterly.com/?q=h.reports.iv&eisbn=DPbziv2lOhv9A4uw8W-2Ew) - Ghassan Kanafani
+* [Occupied by Memory: The Intifada Generation and the Palestinian State of Emergency](https://mtlshop.drawnandquarterly.com/?q=h.reports.iv&eisbn=DPbziv2lOhv9A4uw8W-2Ew) - Ghassan Kanafani
 * [مش حلو لبنت (It’s not nice for a girl)](https://maamoulpress.com/It-s-Not-Nice-For-a-Girl-by-Christina-Atik) - by Christina Atik
 * [PM Press](pmpress.org)
 * [The Arabs from Alexander the Great until the Islamic Conquests](https://www.jadaliyya.com/Details/43125/Ayad-Al-Ani,-The-Arabs-from-Alexander-the-Great-until-the-Islamic-Conquests-Orientalist-Perceptions-and-Contemporary-Conflicts-New-Texts-Out-Now): Orientalist Perceptions and Contemporary Conflicts - by Ayad Al-Ani
@@ -45,6 +47,7 @@ You can support me financially through these means
 * [ Binti](https://www.kobo.com/ca/en/ebook/binti) or any other novel by [Nnedi Okorafor](https://www.kobo.com/ca/en/search?query=Nnedi%20Okorafor&fcsearchfield=Author)
 * [Iraq + 100](https://www.tor.com/2017/07/27/excerpts-hassan-blasim-iraq-100/)
 * [شبيك لبيك (Shubeik Lubeik)](https://maamoulpress.com/Shubeik-Lubeik-By-Deena-Mohamed) - by Deena Mohamed
+* [Hijab and Red Lipstick](https://www.hashtagpress.co.uk/product-page/hijab-and-red-lipstick-by-yousra-imran)
 * [Son of the Storm](https://www.indiebound.org/book/9780316428941) - Suyi Davies Okungbowa
 * [The Years of Rice and Salt](https://www.kimstanleyrobinson.info/node/345)
 * [The Raven Tower](https://www.kobo.com/ca/en/ebook/the-raven-tower)
@@ -59,6 +62,7 @@ You can support me financially through these means
 * [Game Design Workshop](https://www.gamedesignworkshop.com/)
 
 #### Sexuality
+* [We Wrote In Symbols](https://saqibooks.com/books/saqi/we-wrote-in-symbols/)
 * [Kama Sutra](https://www.penguinrandomhouse.com/books/310597/kama-sutra-by-vatsyayana/9780143106593) - New translation by Aditya Narayan Dhairyasheel Haksar
 * [Sex and the Citadel](https://www.kobo.com/ca/en/ebook/sex-and-the-citadel)
 * [La révolution du plaisir](https://www.kobo.com/ca/en/ebook/la-revolution-du-plaisir-1)
