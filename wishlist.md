@@ -13,7 +13,7 @@ You can support me financially through these means
 
 ### Hardware
 * [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
-* [Iwata Revolution HP-CR airbrush](https://www.coastairbrush.com/proddetail.asp?prod=Revolution_HP-CR)
+* [Iwata Revolution HP-CR airbrush](https://www.coastairbrush.com/proddetail.asp?prod=Revolution_HP-CR) + [Coast Airbrush Battery Operated Compressor](https://www.coastairbrush.com/proddetail.asp?prod=Coast_Airbrush_Battery_Operated_Compressor)
 * [Raspberri Pi3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
 * [Satiator](https://www.satiator.net/Satiator_p_12.html)
 * [WingmanXB](https://shop.brookaccessory.com/en/products/wingman_xb)
@@ -57,6 +57,9 @@ You can support me financially through these means
 * 
 
 #### Game Development:
+* [Sega Dreamcast: Collected Works](https://readonlymemory.vg/shop/book/sega-dreamcast-collected-works/)
+* [Arcade Game Typography](https://readonlymemory.vg/shop/book/arcade-game-typography/)
+* [Coding History: 3D From Mode7 to DOOM](https://codinghistory.backerkit.com/community_shares/3941005)
 * [Procedural Storytelling in Game Design](https://www.crcpress.com/Procedural-Storytelling-in-Game-Design/Short-Adams/p/book/9781138595309)
 * [The Art of Game Design: A Book of Lenses, Second Edition](https://www.crcpress.com/The-Art-of-Game-Design-A-Book-of-Lenses-Second-Edition/Schell-Schell/p/book/9781466598645)
 * [Game Design Workshop](https://www.gamedesignworkshop.com/)
@@ -82,6 +85,9 @@ You can support me financially through these means
 
 ### Clothing
 * [Be humble, but let motherf\*ckers know](https://embattledclothing.com/collections/mb-universe/products/be-humble-moon-white-tank-top) tank top
+
+### Music
+* [Sekiro: Shadows Die Twice OST](https://www.amazon.co.jp/dp/B0828Q36G9)
 
 ### Subscriptions
 * [Palbox](https://www.palbox.org/)
