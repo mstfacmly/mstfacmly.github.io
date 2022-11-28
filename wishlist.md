@@ -14,9 +14,11 @@ You can support me financially through these means
 ### Hardware
 * [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
 * [Iwata Revolution HP-CR airbrush](https://www.coastairbrush.com/proddetail.asp?prod=Revolution_HP-CR) + [Coast Airbrush Battery Operated Compressor](https://www.coastairbrush.com/proddetail.asp?prod=Coast_Airbrush_Battery_Operated_Compressor)
+* [Keychron K7](https://www.keychron.com/pages/keychron-k7-wireless-mechanical-keyboard)
 * [Raspberri Pi3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
 * [Satiator](https://www.satiator.net/Satiator_p_12.html)
 * [WingmanXB](https://shop.brookaccessory.com/en/products/wingman_xb)
+* [Luke Light for Deltof](https://www.thelukelight.com/collections/frontpage/products/white-tone-usb-light-kit-for-detolf-cabinet]
 {%comment%}
 * [Razer BlackWidow Lite X TE](https://www.razer.com/ca-en/gaming-keyboards-keypads/razer-blackwidow-x-tournament-edition)
 * [Lenovo Carbon X1](https://www.lenovo.com/ca/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-6th-Gen/p/22TP2TXX16G)
@@ -30,9 +32,14 @@ You can support me financially through these means
 * [Steam](https://store.steampowered.com/wishlist/id/mstfacmly/)
 * [GOG](https://www.gog.com/u/mchamli/wishlist)
 
+### Superman
+* [Superman: the Movie Premium Format Figurine](https://www.sideshow.com/collectibles/dc-comics-superman-the-movie-sideshow-collectibles-300759) by Sideshow
+* [Superman: the Mechanical Monsters Box-Set](https://www.bigbadtoystore.com/Product/VariationDetails/157966)
+
 ### Books
 
 #### Politics
+* [On Zionist Literature](https://www.ebb-magazine.com/books/p/on-zionist-literature) - Ghassan Kanafani
 * [An Oral History of the Palestinian Nakba](https://www.zedbooks.net/shop/book/an-oral-history-of-the-palestinian-nakba/)
 * [Occupied by Memory: The Intifada Generation and the Palestinian State of Emergency](https://mtlshop.drawnandquarterly.com/?q=h.reports.iv&eisbn=DPbziv2lOhv9A4uw8W-2Ew) - Ghassan Kanafani
 * [مش حلو لبنت (It’s not nice for a girl)](https://maamoulpress.com/It-s-Not-Nice-For-a-Girl-by-Christina-Atik) - by Christina Atik
@@ -52,9 +59,7 @@ You can support me financially through these means
 * [The Years of Rice and Salt](https://www.kimstanleyrobinson.info/node/345)
 * [The Raven Tower](https://www.kobo.com/ca/en/ebook/the-raven-tower)
 * [Snow White Learns Witchcraft](https://www.kobo.com/ca/en/ebook/snow-white-learns-witchcraft-stories-and-poems)
-
-#### Superman
-* 
+* [Titanium Noir](https://www.penguinrandomhouse.com/books/710281/titanium-noir-by-nick-harkaway/)
 
 #### Game Development:
 * [Sega Dreamcast: Collected Works](https://readonlymemory.vg/shop/book/sega-dreamcast-collected-works/)
@@ -79,6 +84,8 @@ You can support me financially through these means
 * [Thuluth Mastery Book](https://www.amazon.com/Arabic-Calligraphy-Mastery-step-step/dp/1539972488/) - I'd rather not purchase through Amazon, but the only other option is the [PDF version](https://omaruddin.samcart.com/products/thuluth-mastery-ebook)
 * [TED Book: Broken Spaces & Outer Places](https://www.ted.com/read/ted-books/ted-books-library/broken-spaces-outer-places)
 * [The Ends of the World](https://www.kobo.com/ca/en/ebook/the-ends-of-the-world) -  Volcanic Apocalypses, Lethal Oceans, and Our Quest to Understand Earth's Past Mass Extinctions by Peter Brannen
+* [History of the Arabs before Islam]() - Jawad Ali
+* [Persians: The Age of the Great Kings](https://www.basicbooks.com/titles/lloyd-llewellyn-jones/persians/9781541600355/)
 
 ### Collectibles
 * [Sideshow](https://www.sideshow.com/wishlist/beb6a66c456fd252087c6d99391f36a8)
