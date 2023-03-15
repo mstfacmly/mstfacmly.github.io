@@ -18,7 +18,8 @@ You can support me financially through these means
 * [Raspberri Pi3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
 * [Satiator](https://www.satiator.net/Satiator_p_12.html)
 * [WingmanXB](https://shop.brookaccessory.com/en/products/wingman_xb)
-* [Luke Light for Deltof](https://www.thelukelight.com/collections/frontpage/products/white-tone-usb-light-kit-for-detolf-cabinet]
+* [Luke Light for Deltof](https://www.thelukelight.com/collections/frontpage/products/white-tone-usb-light-kit-for-detolf-cabinet)
+* [Everyday case for Pixel 7](https://ca.peakdesign.com/products/everyday-case-pixel?variant=39889627250765)
 {%comment%}
 * [Razer BlackWidow Lite X TE](https://www.razer.com/ca-en/gaming-keyboards-keypads/razer-blackwidow-x-tournament-edition)
 * [Lenovo Carbon X1](https://www.lenovo.com/ca/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-6th-Gen/p/22TP2TXX16G)
@@ -60,6 +61,8 @@ You can support me financially through these means
 * [The Raven Tower](https://www.kobo.com/ca/en/ebook/the-raven-tower)
 * [Snow White Learns Witchcraft](https://www.kobo.com/ca/en/ebook/snow-white-learns-witchcraft-stories-and-poems)
 * [Titanium Noir](https://www.penguinrandomhouse.com/books/710281/titanium-noir-by-nick-harkaway/)
+* [Breakable Things](https://undertowpublications.com/shop/breakable-things)
+* [The Eternaut](https://www.fantagraphics.com/products/the-eternaut)
 
 #### Game Development:
 * [Sega Dreamcast: Collected Works](https://readonlymemory.vg/shop/book/sega-dreamcast-collected-works/)
@@ -68,6 +71,8 @@ You can support me financially through these means
 * [Procedural Storytelling in Game Design](https://www.crcpress.com/Procedural-Storytelling-in-Game-Design/Short-Adams/p/book/9781138595309)
 * [The Art of Game Design: A Book of Lenses, Second Edition](https://www.crcpress.com/The-Art-of-Game-Design-A-Book-of-Lenses-Second-Edition/Schell-Schell/p/book/9781466598645)
 * [Game Design Workshop](https://www.gamedesignworkshop.com/)
+* [A Playful Production Process](https://www.playfulproductionprocess.com/)
+* [Writing for games](https://www.writingfor.games/)
 
 #### Sexuality
 * [We Wrote In Symbols](https://saqibooks.com/books/saqi/we-wrote-in-symbols/)
@@ -80,6 +85,7 @@ You can support me financially through these means
 * 
 
 #### Other
+* [Arabic Typography History and Practice](https://www.niggli.ch/en/produkt/arabic-typography/)
 * [Persian Archery and Swordsmanship: Historical Martial Arts of Iran](http://www.moshtaghkhorasani.com/books/persian-archery-and-swordsmanship/)
 * [Thuluth Mastery Book](https://www.amazon.com/Arabic-Calligraphy-Mastery-step-step/dp/1539972488/) - I'd rather not purchase through Amazon, but the only other option is the [PDF version](https://omaruddin.samcart.com/products/thuluth-mastery-ebook)
 * [TED Book: Broken Spaces & Outer Places](https://www.ted.com/read/ted-books/ted-books-library/broken-spaces-outer-places)
