@@ -35,6 +35,8 @@ You can support me financially through these means
 * [GOG](https://www.gog.com/u/mchamli/wishlist)
 
 ### Superman
+* [Superman - Christopher Reeve film collection](https://www.amazon.ca/dp/B0BX1D4T71/)
+* [Premium Toys "The Savior" 1:6 Collectible Figure](https://www.toyswonderland.com/product/premium-toys-the-savior-16-collectible-figure/)
 * [Superman: the Movie Premium Format Figurine](https://www.sideshow.com/collectibles/dc-comics-superman-the-movie-sideshow-collectibles-300759) by Sideshow
 * [Superman: the Mechanical Monsters Box-Set](https://www.bigbadtoystore.com/Product/VariationDetails/157966)
 
