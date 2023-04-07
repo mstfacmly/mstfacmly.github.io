@@ -15,6 +15,7 @@ You can support me financially through these means
 * [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
 * [Iwata Revolution HP-CR airbrush](https://www.coastairbrush.com/proddetail.asp?prod=Revolution_HP-CR) + [Coast Airbrush Battery Operated Compressor](https://www.coastairbrush.com/proddetail.asp?prod=Coast_Airbrush_Battery_Operated_Compressor)
 * [Keychron K7](https://www.keychron.com/pages/keychron-k7-wireless-mechanical-keyboard)
+* [Nintendo 64 controller for Switch](https://www.nintendo.com/store/products/nintendo-64-controller/)
 * [Raspberri Pi3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
 * [Satiator](https://www.satiator.net/Satiator_p_12.html)
 * [WingmanXB](https://shop.brookaccessory.com/en/products/wingman_xb)
@@ -39,6 +40,7 @@ You can support me financially through these means
 * [Premium Toys "The Savior" 1:6 Collectible Figure](https://www.toyswonderland.com/product/premium-toys-the-savior-16-collectible-figure/)
 * [Superman: the Movie Premium Format Figurine](https://www.sideshow.com/collectibles/dc-comics-superman-the-movie-sideshow-collectibles-300759) by Sideshow
 * [Superman: the Mechanical Monsters Box-Set](https://www.bigbadtoystore.com/Product/VariationDetails/157966)
+* [Play Kai Arts figure](https://www.imaginationhobby.com/en/dc-comics-variant-no-6-superman-9-inch-action-figure-play-arts-kai-square-enix-product-opened-sold-in-store-en.html)
 
 ### Books
 
