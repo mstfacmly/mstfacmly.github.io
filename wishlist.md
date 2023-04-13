@@ -12,10 +12,11 @@ You can support me financially through these means
 * [Society6](https://society6.com/mstfacmly)
 
 ### Hardware
-* [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
 * [Iwata Revolution HP-CR airbrush](https://www.coastairbrush.com/proddetail.asp?prod=Revolution_HP-CR) + [Coast Airbrush Battery Operated Compressor](https://www.coastairbrush.com/proddetail.asp?prod=Coast_Airbrush_Battery_Operated_Compressor)
+* [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
 * [Keychron K7](https://www.keychron.com/pages/keychron-k7-wireless-mechanical-keyboard)
 * [Nintendo 64 controller for Switch](https://www.nintendo.com/store/products/nintendo-64-controller/)
+* [GuliKit Switch Joycon replacement](https://www.amazon.ca/dp/B0BPS1ZW1H)
 * [Raspberri Pi3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
 * [Satiator](https://www.satiator.net/Satiator_p_12.html)
 * [WingmanXB](https://shop.brookaccessory.com/en/products/wingman_xb)
@@ -91,7 +92,6 @@ You can support me financially through these means
 #### Other
 * [Arabic Typography History and Practice](https://www.niggli.ch/en/produkt/arabic-typography/)
 * [Persian Archery and Swordsmanship: Historical Martial Arts of Iran](http://www.moshtaghkhorasani.com/books/persian-archery-and-swordsmanship/)
-* [Thuluth Mastery Book](https://www.amazon.com/Arabic-Calligraphy-Mastery-step-step/dp/1539972488/) - I'd rather not purchase through Amazon, but the only other option is the [PDF version](https://omaruddin.samcart.com/products/thuluth-mastery-ebook)
 * [TED Book: Broken Spaces & Outer Places](https://www.ted.com/read/ted-books/ted-books-library/broken-spaces-outer-places)
 * [The Ends of the World](https://www.kobo.com/ca/en/ebook/the-ends-of-the-world) -  Volcanic Apocalypses, Lethal Oceans, and Our Quest to Understand Earth's Past Mass Extinctions by Peter Brannen
 * [History of the Arabs before Islam]() - Jawad Ali
