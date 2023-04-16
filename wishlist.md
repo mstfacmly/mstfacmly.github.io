@@ -23,11 +23,6 @@ You can support me financially through these means
 * [Luke Light for Deltof](https://www.thelukelight.com/collections/frontpage/products/white-tone-usb-light-kit-for-detolf-cabinet)
 * [Everyday case for Pixel 7](https://ca.peakdesign.com/products/everyday-case-pixel?variant=39889627250765)
 * [Bertello Outdoor Pizza Oven](https://ca.bertello.com/collections/products)
-{%comment%}
-* [Razer BlackWidow Lite X TE](https://www.razer.com/ca-en/gaming-keyboards-keypads/razer-blackwidow-x-tournament-edition)
-* [Lenovo Carbon X1](https://www.lenovo.com/ca/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-6th-Gen/p/22TP2TXX16G)
-* [Microsoft Surface Pro](https://www.microsoft.com/en-ca/p/surface-pro-6)
-{%endcomment%}
 
 ### Games
 * [Xbox](https://www.microsoft.com/en-ca/store/wishlist)
@@ -113,11 +108,10 @@ You can support me financially through these means
 ### Causes
 You can always gift me with a donation to one of the following causes or charities:
 
+* [Arab American Institute](https://aai.nationbuilder.com/aaif_donate)
 * [Jewish Voice for Peace](https://jewishvoiceforpeace.org/giving)
 * [Canadian Civil Liberties Association (CCLA)](https://ccla.org/give)
-* [Arab American Institute](https://aai.nationbuilder.com/aaif_donate)
 * [American Civil Liberties Union (ACLU)](https://www.aclu.org/give/fight-back-against-attacks-our-civil-liberties)
 * [Beirut Madinati](http://beirutmadinati.com/donate)
 * [Free-Syria](http://www.free-syria-foundation.org/donate-fre-syria)
-* [Electronic Frontier Foundation (EFF)](https://www.eff.org/donate)
 * [Memphis Feminist Collective](http://memphisfeministcollective.org/)
