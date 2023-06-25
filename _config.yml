@@ -3,18 +3,18 @@ description: Personal website & résumé for mstfa cmly
 url: https://mstfacmly.com
 author: mstfa cmly
 birthday: '1984-04-11 00:00:00 +0300'
-langs: العربية , English , French , Spanish , Italian
+langs: العربية , English , French 
 proglangs: Python, GDScript, Unreal Blueprints, & Web languages (HTML, CSS, Markdown, Liquid)
 laptop: Lenovo Thinkpad 14s (AMD)
 laptopsite: https://www.lenovo.com/ca/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T14s-AMD-G1/p/22TPT144SA2
 OS: Fedora
 OSsite: https://getfedora.org
-console: Xbox One X
-consolesite: https://www.xbox.com/en-CA/consoles/xbox-one-x
+console: Xbox Series X
+consolesite: https://www.xbox.com/en-CA/consoles/xbox-series-x
 browser: Firefox
 browsersite: https://firefox.com
-phoneOS: Android 11
-phoneOSsite: https://www.android.com/11
+phoneOS: Android 13
+phoneOSsite: https://www.android.com/13
 
 #contact info
 email: moustafa.chamli@gmail.com
