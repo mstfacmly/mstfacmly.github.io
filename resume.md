@@ -47,10 +47,12 @@ Currently employed at {{ site.employer }}
 {% endcomment %}
 
 ### Games
+* WB Games Internal Arcades Projects - Tech Designer - Small internal project. Integrated [Ink](https://www.inklestudios.com/ink/) into Unreal Engine 5, alongside various features to help the team bring their vision to life.
 * [Gotham Knights](https://www.gothamknightsgame.com/en-us) - Rendering DevQA - Providing first point of contact support to the rendering team, providing with direct support to engine issues for the developers. Tasks include daily reports, preflight testing, performance captures (via Unreal engine tools, Telemetry, XBOX GDK, and PS5 Razor CPU/GPU; Promotion team - Assuring Engine stability & functionality
 * [LEGO Star Wars: The Skywalker Saga](https://www.starwars.com/games-apps/lego-star-wars-the-skywalker-saga) - Functionality QA tester - Creating and updating productivity aids which helped simplify the workflow for other testers
+* WB Games 2019 Internal Game Jam - Game Designer, Narrative Writer - Winning game jam project built in one day with a small team.
 * [Hogwarts Legacy](https://www.hogwartslegacy.com/en-gb) - Functionality QA tester - 3C Pod lead - Creating and assigning test cases, direct communication with the designers to assess their testing needs and provide feedback as needed
-* [الأخرة (in development)](https://studioslune.com/projects/alakhira) - Game, Narrative, and Art Direction, Character Designer, 3D Artist, Animator, Programmer
+* [الأخرة (in development)](https://studioslune.com/projects/alakhira) (Website down) - Game, Narrative, and Art Direction, Character Designer, 3D Artist, Animator, Programmer
 * [Sig: the City Between](https://genesisoflegend.com/products/sig) - Interior Artwork
 * [The Other Room](http://minorityvr.com) - Game and Narrative Consultant
 
