@@ -97,6 +97,7 @@ You can support me financially through these means
 
 ### Clothing
 * [Be humble, but let motherf\*ckers know](https://embattledclothing.com/collections/mb-universe/products/be-humble-moon-white-tank-top) tank top
+    * [RSVLTS DC Superman Heat Check](https://www.rsvlts.com/collections/superman/products/dc-superman-heat-check-kunuflex-short-sleeve-shirt?variant=41165911818398) short sleeve shirt
 
 ### Music
 * [Sekiro: Shadows Die Twice OST](https://www.amazon.co.jp/dp/B0828Q36G9)
