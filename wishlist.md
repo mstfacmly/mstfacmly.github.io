@@ -12,11 +12,14 @@ You can support me financially through these means
 * [Society6](https://society6.com/mstfacmly)
 
 ### Hardware
+* [https://www.ibanez.com/na/products/detail/tcy12e_2y_09.html](Talman Acoustic Guitar)
 * [Iwata Revolution HP-CR airbrush](https://www.coastairbrush.com/proddetail.asp?prod=Revolution_HP-CR) + [Coast Airbrush Battery Operated Compressor](https://www.coastairbrush.com/proddetail.asp?prod=Coast_Airbrush_Battery_Operated_Compressor)
 * [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
 * [Keychron K7](https://www.keychron.com/pages/keychron-k7-wireless-mechanical-keyboard)
 * [Nintendo 64 controller for Switch](https://www.nintendo.com/store/products/nintendo-64-controller/)
+{%comment%}
 * [GuliKit Switch Joycon replacement](https://www.amazon.ca/dp/B0BPS1ZW1H)
+{%endcomment%}
 * [Raspberri Pi3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
 * [Satiator](https://www.satiator.net/Satiator_p_12.html)
 * [WingmanXB](https://shop.brookaccessory.com/en/products/wingman_xb)
@@ -52,8 +55,8 @@ You can support me financially through these means
 {%endcomment%}
 
 #### Fiction
+* [DUNE](https://shop.librairieleuguelionne.com/item/RCG13MTqOQkgyE-vQoCK1A) - Specifically this edition
 * [ Binti](https://www.kobo.com/ca/en/ebook/binti) or any other novel by [Nnedi Okorafor](https://www.kobo.com/ca/en/search?query=Nnedi%20Okorafor&fcsearchfield=Author)
-* [Iraq + 100](https://www.tor.com/2017/07/27/excerpts-hassan-blasim-iraq-100/)
 * [شبيك لبيك (Shubeik Lubeik)](https://maamoulpress.com/Shubeik-Lubeik-By-Deena-Mohamed) - by Deena Mohamed
 * [Hijab and Red Lipstick](https://www.hashtagpress.co.uk/product-page/hijab-and-red-lipstick-by-yousra-imran)
 * [Son of the Storm](https://www.indiebound.org/book/9780316428941) - Suyi Davies Okungbowa
@@ -82,7 +85,8 @@ You can support me financially through these means
 * [Love Not Given Lightly](https://www.kobo.com/ca/en/ebook/love-not-given-lightly-1)
 
 #### Cooking
-* 
+* [Jonas Blade 8" Chef's knife](https://jonasblade.com/product/8-chefs-knife/)
+* [Tokuseï Nobunaga, Santoku 180mm](https://www.lemouleur.com/couteaujaponais/tokusei-nobunaga-gyuto-180)
 
 #### Other
 * [Arabic Typography History and Practice](https://www.niggli.ch/en/produkt/arabic-typography/)
@@ -90,6 +94,7 @@ You can support me financially through these means
 * [TED Book: Broken Spaces & Outer Places](https://www.ted.com/read/ted-books/ted-books-library/broken-spaces-outer-places)
 * [The Ends of the World](https://www.kobo.com/ca/en/ebook/the-ends-of-the-world) -  Volcanic Apocalypses, Lethal Oceans, and Our Quest to Understand Earth's Past Mass Extinctions by Peter Brannen
 * [History of the Arabs before Islam]() - Jawad Ali
+* [The Eternal Message of Muhammad](https://www.meccabooks.com/products/the-eternal-message-of-muhammad)
 * [Persians: The Age of the Great Kings](https://www.basicbooks.com/titles/lloyd-llewellyn-jones/persians/9781541600355/)
 
 ### Collectibles
@@ -97,7 +102,7 @@ You can support me financially through these means
 
 ### Clothing
 * [Be humble, but let motherf\*ckers know](https://embattledclothing.com/collections/mb-universe/products/be-humble-moon-white-tank-top) tank top
-    * [RSVLTS DC Superman Heat Check](https://www.rsvlts.com/collections/superman/products/dc-superman-heat-check-kunuflex-short-sleeve-shirt?variant=41165911818398) short sleeve shirt
+* [RSVLTS DC Superman Heat Check](https://www.rsvlts.com/collections/superman/products/dc-superman-heat-check-kunuflex-short-sleeve-shirt?variant=41165911818398) short sleeve shirt
 
 ### Music
 * [Sekiro: Shadows Die Twice OST](https://www.amazon.co.jp/dp/B0828Q36G9)
@@ -109,10 +114,7 @@ You can support me financially through these means
 ### Causes
 You can always gift me with a donation to one of the following causes or charities:
 
-* [Arab American Institute](https://aai.nationbuilder.com/aaif_donate)
-* [Jewish Voice for Peace](https://jewishvoiceforpeace.org/giving)
+* [PCRF](https://pcrf1.app.neoncrm.com/forms/2024-ramadan-campaign-1)
+* [Canadians for Justice & Peace in the Middle East](https://www.cjpme.org/donate_ep)
 * [Canadian Civil Liberties Association (CCLA)](https://ccla.org/give)
-* [American Civil Liberties Union (ACLU)](https://www.aclu.org/give/fight-back-against-attacks-our-civil-liberties)
-* [Beirut Madinati](http://beirutmadinati.com/donate)
 * [Free-Syria](http://www.free-syria-foundation.org/donate-fre-syria)
-* [Memphis Feminist Collective](http://memphisfeministcollective.org/)
