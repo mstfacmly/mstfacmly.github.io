@@ -12,7 +12,7 @@ You can support me financially through these means
 * [Society6](https://society6.com/mstfacmly)
 
 ### Hardware
-* [https://www.ibanez.com/na/products/detail/tcy12e_2y_09.html](Talman Acoustic Guitar)
+* [Talman Acoustic Guitar](https://www.ibanez.com/na/products/detail/tcy12e_2y_09.html)
 * [Iwata Revolution HP-CR airbrush](https://www.coastairbrush.com/proddetail.asp?prod=Revolution_HP-CR) + [Coast Airbrush Battery Operated Compressor](https://www.coastairbrush.com/proddetail.asp?prod=Coast_Airbrush_Battery_Operated_Compressor)
 * [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
 * [Keychron K7](https://www.keychron.com/pages/keychron-k7-wireless-mechanical-keyboard)
