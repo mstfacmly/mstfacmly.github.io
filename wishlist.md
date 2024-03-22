@@ -17,15 +17,15 @@ You can support me financially through these means
 * [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
 * [Keychron K7](https://www.keychron.com/pages/keychron-k7-wireless-mechanical-keyboard)
 * [Nintendo 64 controller for Switch](https://www.nintendo.com/store/products/nintendo-64-controller/)
-{%comment%}
-* [GuliKit Switch Joycon replacement](https://www.amazon.ca/dp/B0BPS1ZW1H)
-{%endcomment%}
 * [Raspberri Pi3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
 * [Satiator](https://www.satiator.net/Satiator_p_12.html)
 * [WingmanXB](https://shop.brookaccessory.com/en/products/wingman_xb)
 * [Luke Light for Deltof](https://www.thelukelight.com/collections/frontpage/products/white-tone-usb-light-kit-for-detolf-cabinet)
 * [Everyday case for Pixel 7](https://ca.peakdesign.com/products/everyday-case-pixel?variant=39889627250765)
 * [Bertello Outdoor Pizza Oven](https://ca.bertello.com/collections/products)
+{%comment%}
+* [GuliKit Switch Joycon replacement](https://www.amazon.ca/dp/B0BPS1ZW1H)
+{%endcomment%}
 
 ### Games
 * [Xbox](https://www.microsoft.com/en-ca/store/wishlist)
