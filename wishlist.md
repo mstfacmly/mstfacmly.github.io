@@ -35,7 +35,6 @@ You can support me financially through these means
 * [GOG](https://www.gog.com/u/mchamli/wishlist)
 
 ### Superman
-* [Premium Toys "The Savior" 1:6 Collectible Figure](https://www.toyswonderland.com/product/premium-toys-the-savior-16-collectible-figure/)
 * [Superman: the Movie Premium Format Figurine](https://www.sideshow.com/collectibles/dc-comics-superman-the-movie-sideshow-collectibles-300759) by Sideshow
 * [Superman: the Mechanical Monsters Box-Set](https://www.bigbadtoystore.com/Product/VariationDetails/157966)
 * [Play Kai Arts figure](https://www.imaginationhobby.com/en/dc-comics-variant-no-6-superman-9-inch-action-figure-play-arts-kai-square-enix-product-opened-sold-in-store-en.html)
@@ -44,15 +43,13 @@ You can support me financially through these means
 
 #### Politics
 * [On Zionist Literature](https://www.ebb-magazine.com/books/p/on-zionist-literature) - Ghassan Kanafani
-* [An Oral History of the Palestinian Nakba](https://www.zedbooks.net/shop/book/an-oral-history-of-the-palestinian-nakba/)
 * [Occupied by Memory: The Intifada Generation and the Palestinian State of Emergency](https://mtlshop.drawnandquarterly.com/?q=h.reports.iv&eisbn=DPbziv2lOhv9A4uw8W-2Ew) - Ghassan Kanafani
+* [An Oral History of the Palestinian Nakba](https://www.zedbooks.net/shop/book/an-oral-history-of-the-palestinian-nakba/)
 * [مش حلو لبنت (It’s not nice for a girl)](https://maamoulpress.com/It-s-Not-Nice-For-a-Girl-by-Christina-Atik) - by Christina Atik
 * [PM Press](pmpress.org)
 * [The Arabs from Alexander the Great until the Islamic Conquests](https://www.jadaliyya.com/Details/43125/Ayad-Al-Ani,-The-Arabs-from-Alexander-the-Great-until-the-Islamic-Conquests-Orientalist-Perceptions-and-Contemporary-Conflicts-New-Texts-Out-Now): Orientalist Perceptions and Contemporary Conflicts - by Ayad Al-Ani
 * [The Politics of Frida Kahlo](https://www.bookdepository.com/Politics-Frida-Kahlo-Fernando-Meisenhalter/9781719915670) -  by Fernando Meisenhalter
-{%comment%}
 * [Islam for the Politically Incorrect](http://www.gilgamesh-publishing.co.uk/islam-for-the-politically-incorrect.html)
-{%endcomment%}
 
 #### Fiction
 * [DUNE](https://shop.librairieleuguelionne.com/item/RCG13MTqOQkgyE-vQoCK1A) - Specifically this edition
