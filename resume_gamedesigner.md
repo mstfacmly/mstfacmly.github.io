@@ -58,9 +58,9 @@ These experiences have better shaped my approach to design, as well as ensure th
 
 * [Sig: the City Between](https://genesisoflegend.com/products/sig) - Contributed some interior artwork to this indie TTRPG.
 
-## Writing
+### Writing
 
-### In print
+#### In print
 * [Fourrer Le Feu](https://leslibraires.ca/livres/fourrer-le-feu-marjolaine-beauchamp-9782924682036.html) - A short poem I wrote found itself as the prologue to the collection of poems.
 * [Grammaire Rebelle](https://www.facebook.com/events/290536951728803/) - A small snippet 
 
