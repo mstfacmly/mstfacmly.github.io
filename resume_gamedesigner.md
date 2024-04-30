@@ -12,9 +12,8 @@ title: Résumé
 </div>
 
 <section class="resume" markdown="1">
-I am a Game designer with a love of the blending of mechanics and narrative. I've honed my skills over the years by developing a diverse range of skills. 
 
-2D/3D Artist, Animator, Writer, QA Tester 
+## I am a Game designer with a love of the blending of mechanics and narrative. I've honed my skills over the years by developing a diverse range of skills, including 2D/3D Art, Animation, Writing, QA Testing 
 
 Currently employed at {{ site.employer }}
 
