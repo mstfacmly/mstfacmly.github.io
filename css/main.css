@@ -59,7 +59,7 @@
 body {
 	font-family:'FiraGO', 'Noto Sans', 'Sans-Serif';
 	margin: 60px auto;
-	width: 72%;
+	width: 56%;
 }
 .container {
 	min-height: 64vh;
@@ -70,7 +70,7 @@ body {
 	position: fixed;
 	top: 0;
 	left: 0;
-	width:100%;
+	width:84%;
 }
 .nav ul li {
 	margin: 0;

@@ -51,20 +51,20 @@ Currently employed at {{ site.employer }}
 
 ## Designer & Narrative
 
-* [الأخرة (development halted)](https://studioslune.com/projects/alakhira) (Website down) - Game, Narrative, and Art Direction, Character Designer, 3D Artist, Animator, Programmer. A 3D action game about the end of the world.
-* [The Other Room](http://minorityvr.com) - Game and Narrative Consultant -- I was originally brought in as a tester to the VR narrative experience. For the second session, I was brought in as a consultant on the games' level designs, and assisted with minor changes which would provide with a challenge to the player while keeping them invested in the story of the game.
-* [FASCball](https://mstfacmly.itch.io/fascball) -- Where football meets with fascism! A short arcade-style gamme where two human players play football (soccer) against a (dumb) AI team. The players play by the rules, while the oponents have guns and can change the rules on a whim.
-* WB Games Montreal -- Internal Arcades Projects - Tech Designer - Small internal project. Integrated [Ink](https://www.inklestudios.com/ink/) into Unreal Engine 5, alongside various features to help the team bring their vision to life.
-* WB Games Montreal -- Game Jam 2019 -- Head designer & writer on internal project for WB Games Montreal's first game jam. The project won first place for adhering to the intended ideas, while executing them with simplicity and fun in mind.
+* [الأخرة (development halted)](https://studioslune.com/projects/alakhira) (Website in the process of restoration) - Game, Narrative, and Art Direction, Character Designer, 3D Artist, Animator, Programmer. A 3D action game about the end of the world.
+* [The Other Room](http://minorityvr.com) - Game and Narrative Consultant - I was originally brought in as a tester to the VR narrative experience. For the second session, I was brought in as a consultant on the games' level designs, and assisted with minor changes which would provide with a challenge to the player while keeping them invested in the story of the game.
+* [FASCball](https://mstfacmly.itch.io/fascball) - Where football meets with fascism! A short arcade-style gamme where two human players play football (soccer) against a (dumb) AI team. The players play by the rules, while the oponents have guns and can change the rules on a whim.
+* **WB Games Montreal Internal Arcades Projects** - Tech Designer - Small internal project. Integrated [Ink](https://www.inklestudios.com/ink/) into Unreal Engine 5, alongside various features to help the team bring the vision to life.
+* **WB Games 2019 Internal Game Jam** - Game Designer, Narrative Writer - Winning game jam project built in one day with a small team. The project won first place for adhering to the intended ideas, while executing them with simplicity and fun in mind.
 
 ## QA
 
 My years of QA have provided me with a better understanding in the value of the various fields of QA.
 
+* QA Analytics - Various projects. The experience on the Analytics team shows me how data can be used to better understand how a player experiences a game.
 * [Gotham Knights](https://www.gothamknightsgame.com/en-us) - Rendering DevQA - Providing first point of contact support to the rendering team, providing with direct support to engine issues for the developers. Tasks include daily reports, preflight testing, performance captures (via Unreal engine tools, Telemetry, XBOX GDK, and PS5 Razor CPU/GPU; Promotion team - Assuring Engine stability & functionality
 * [LEGO Star Wars: The Skywalker Saga](https://www.starwars.com/games-apps/lego-star-wars-the-skywalker-saga) - Functionality QA tester - Creating and updating productivity aids which helped simplify the workflow for other testers
-* WB Games 2019 Internal Game Jam - Game Designer, Narrative Writer - Winning game jam project built in one day with a small team.
-* [Hogwarts Legacy](https://www.hogwartslegacy.com/en-gb) - Functionality QA tester - 3C Pod lead - Creating and assigning test cases, direct communication with the designers to assess their testing needs and provide feedback as needed
+* **Unnamed project** - Functionality QA tester - 3C Pod lead - Creating and assigning test cases, direct communication with the designers to assess their testing needs and provide feedback as needed.
 
 ## Art
 
