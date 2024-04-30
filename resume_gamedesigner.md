@@ -11,12 +11,12 @@ title: Résumé
 
 <section class="resume" markdown="1">
 
-## I am a Game designer with a love of the blending of mechanics and narrative.
+## I am a Game designer with a love of the marriage of mechanics and narrative.
 ### I've honed my skills over the years by developing a diverse range of skills, including 2D/3D Art, Animation, Writing, and QA Testing.
 
 Currently employed at {{ site.employer }}
 
-### Languages
+#### Languages
 {% assign langs = site.langs | split: ', ' %}
 {%- for lang in langs -%}
     {% if lang != langs.last %}
@@ -26,7 +26,7 @@ Currently employed at {{ site.employer }}
     {% endif %}
 {%- endfor %}
 
-### Programming Languages
+#### Programming Languages
 {% assign prog = site.proglangs | remove: '& Web languages' | remove: '(' | remove: ')' | split: ',' %}
 {%- for langs in prog -%}
     {%- if langs != prog.last -%}
