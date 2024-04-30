@@ -16,25 +16,25 @@ title: Résumé
 
 Currently employed at {{ site.employer }}
 
-#### Languages
+<style="text-align:right;">
 {% assign langs = site.langs | split: ', ' %}
 {%- for lang in langs -%}
     {% if lang != langs.last %}
      {{- lang | append: ', ' -}}
      {%- else -%}
-     {{- lang -}}
+### Languages = {{- lang -}}
     {% endif %}
 {%- endfor %}
 
-#### Programming Languages
 {% assign prog = site.proglangs | remove: '& Web languages' | remove: '(' | remove: ')' | split: ',' %}
 {%- for langs in prog -%}
     {%- if langs != prog.last -%}
      {{- langs | append: ', ' -}}
      {%- else -%}
-     {{- langs -}}
+### Programming Languages = {{- langs -}}
     {% endif %}
 {% endfor %}
+</style>
 
 ### Designer & Narrative
 
