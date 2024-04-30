@@ -142,11 +142,11 @@ h2 {
 	font-family:'FiraGO Light', 'Noto Sans', 'Helvetica', 'Sans-Serif';
 }
 h3 {
-	font-size: 1.21rem;
+	font-size: 1.41rem;
 	font-family:'FiraGO Light', 'Noto Sans', 'Helvetica', 'Sans-Serif';
 }
 h4 {
-	font-size: 1.1rem;
+	font-size: 1.21rem;
 	font-family:'FiraGO Light', 'Noto Sans', 'Helvetica', 'Sans-Serif';
 }
 p {
@@ -178,12 +178,18 @@ ul.posts li {
 	padding: 1rem;
 }
 
+.post img + em {
+	display: block;
+	text-align: center;
+}
+
 .post img {
 		height: 11rem;
 		border-radius: initial; 
 		float: left;
 		margin: 1% 2% 0 0;
-	}
+}
+
 
 @media screen and (max-width: 64rem) /*and (orientation: portrait)*/ {
 	.nav {
