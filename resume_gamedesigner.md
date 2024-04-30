@@ -16,7 +16,6 @@ title: Résumé
 
 Currently employed at {{ site.employer }}
 
-<style="text-align:right;">
 {% assign langs = site.langs | split: ', ' %}
 {%- for lang in langs -%}
     {% if lang != langs.last %}
@@ -34,7 +33,6 @@ Currently employed at {{ site.employer }}
 ### Programming Languages = {{- langs -}}
     {% endif %}
 {% endfor %}
-</style>
 
 ### Designer & Narrative
 
