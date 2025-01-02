@@ -14,6 +14,9 @@ You can support me financially through these means
 ### Hardware
 * [Talman Acoustic Guitar](https://www.ibanez.com/na/products/detail/tcy12e_2y_09.html)
 * [Iwata Revolution HP-CR airbrush](https://www.coastairbrush.com/proddetail.asp?prod=Revolution_HP-CR) + [Coast Airbrush Battery Operated Compressor](https://www.coastairbrush.com/proddetail.asp?prod=Coast_Airbrush_Battery_Operated_Compressor)
+* [Austrian Audio Hi-X15](http://economik.com/austrian-audio/hi-x15/)
+* [Jonas Blade 8" Chef's knife](https://jonasblade.com/product/8-chefs-knife/)
+* [Tokuseï Nobunaga, Santoku 180mm](https://www.lemouleur.com/couteaujaponais/tokusei-nobunaga-gyuto-180)
 * [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
 * [Keychron K7](https://www.keychron.com/pages/keychron-k7-wireless-mechanical-keyboard)
 * [Nintendo 64 controller for Switch](https://www.nintendo.com/store/products/nintendo-64-controller/)
@@ -21,7 +24,6 @@ You can support me financially through these means
 * [Satiator](https://www.satiator.net/Satiator_p_12.html)
 * [WingmanXB](https://shop.brookaccessory.com/en/products/wingman_xb)
 * [Luke Light for Deltof](https://www.thelukelight.com/collections/frontpage/products/white-tone-usb-light-kit-for-detolf-cabinet)
-* [Everyday case for Pixel 7](https://ca.peakdesign.com/products/everyday-case-pixel?variant=39889627250765)
 * [Bertello Outdoor Pizza Oven](https://ca.bertello.com/collections/products)
 {%comment%}
 * [GuliKit Switch Joycon replacement](https://www.amazon.ca/dp/B0BPS1ZW1H)
@@ -56,6 +58,8 @@ You can support me financially through these means
 * [ Binti](https://www.kobo.com/ca/en/ebook/binti) or any other novel by [Nnedi Okorafor](https://www.kobo.com/ca/en/search?query=Nnedi%20Okorafor&fcsearchfield=Author)
 * [شبيك لبيك (Shubeik Lubeik)](https://maamoulpress.com/Shubeik-Lubeik-By-Deena-Mohamed) - by Deena Mohamed
 * [Hijab and Red Lipstick](https://www.hashtagpress.co.uk/product-page/hijab-and-red-lipstick-by-yousra-imran)
+* [As Long as the Lemon Trees Grow](https://shop.librairieleuguelionne.com/item/oR7uwsLR1Xt2l5QaMh1fgg)
+* [I Swear Somewhere This Works](https://shop.librairieleuguelionne.com/item/MykcUDJ8lhtY4zUVAU2f6w)
 * [Son of the Storm](https://www.indiebound.org/book/9780316428941) - Suyi Davies Okungbowa
 * [The Years of Rice and Salt](https://www.kimstanleyrobinson.info/node/345)
 * [The Raven Tower](https://www.kobo.com/ca/en/ebook/the-raven-tower)
@@ -65,6 +69,7 @@ You can support me financially through these means
 * [The Eternaut](https://www.fantagraphics.com/products/the-eternaut)
 
 #### Game Development:
+* [ Everything to Play For:How Videogames Are Changing the World](https://www.versobooks.com/en-ca/products/3086-everything-to-play-for)
 * [Sega Dreamcast: Collected Works](https://readonlymemory.vg/shop/book/sega-dreamcast-collected-works/)
 * [Arcade Game Typography](https://readonlymemory.vg/shop/book/arcade-game-typography/)
 * [Coding History: 3D From Mode7 to DOOM](https://codinghistory.backerkit.com/community_shares/3941005)
@@ -76,16 +81,18 @@ You can support me financially through these means
 
 #### Sexuality
 * [We Wrote In Symbols](https://saqibooks.com/books/saqi/we-wrote-in-symbols/)
+* [Bonk: The Curious Coupling of Science and Sex](https://www.maryroach.net/bonk.html)
+* [How to Fuck Like a Girl](https://shop.librairieleuguelionne.com/item/fJ3W38gbgYQujpBKQMd4rQ)
 * [Kama Sutra](https://www.penguinrandomhouse.com/books/310597/kama-sutra-by-vatsyayana/9780143106593) - New translation by Aditya Narayan Dhairyasheel Haksar
-* [Sex and the Citadel](https://www.kobo.com/ca/en/ebook/sex-and-the-citadel)
 * [La révolution du plaisir](https://www.kobo.com/ca/en/ebook/la-revolution-du-plaisir-1)
 * [Love Not Given Lightly](https://www.kobo.com/ca/en/ebook/love-not-given-lightly-1)
 
 #### Cooking
-* [Jonas Blade 8" Chef's knife](https://jonasblade.com/product/8-chefs-knife/)
-* [Tokuseï Nobunaga, Santoku 180mm](https://www.lemouleur.com/couteaujaponais/tokusei-nobunaga-gyuto-180)
+* [The Way of Chai](https://www.thewayofchai.com/)
+* [The Pain d'Avignon Baking Book](https://drawnandquarterly.leslibraires.ca/livres/the-pain-d-avignon-baking-book-uliks-fehmiu-9780525536116.html)
 
 #### Other
+* [As Long As You Need](https://www.thomasnelson.com/p/as-long-as-you-need/)
 * [Arabic Typography History and Practice](https://www.niggli.ch/en/produkt/arabic-typography/)
 * [Persian Archery and Swordsmanship: Historical Martial Arts of Iran](http://www.moshtaghkhorasani.com/books/persian-archery-and-swordsmanship/)
 * [TED Book: Broken Spaces & Outer Places](https://www.ted.com/read/ted-books/ted-books-library/broken-spaces-outer-places)
@@ -99,7 +106,6 @@ You can support me financially through these means
 
 ### Clothing
 * [Be humble, but let motherf\*ckers know](https://embattledclothing.com/collections/mb-universe/products/be-humble-moon-white-tank-top) tank top
-* [RSVLTS DC Superman Heat Check](https://www.rsvlts.com/collections/superman/products/dc-superman-heat-check-kunuflex-short-sleeve-shirt?variant=41165911818398) short sleeve shirt
 
 ### Music
 * [Sekiro: Shadows Die Twice OST](https://www.amazon.co.jp/dp/B0828Q36G9)
