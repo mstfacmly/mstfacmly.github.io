@@ -18,6 +18,9 @@ You can support me financially through these means
 * [Jonas Blade 8" Chef's knife](https://jonasblade.com/product/8-chefs-knife/)
 * [Tokuseï Nobunaga, Santoku 180mm](https://www.lemouleur.com/couteaujaponais/tokusei-nobunaga-gyuto-180)
 * [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
+* [Epomaker Tide65 QMK/VIA](https://epomaker.com/products/epomaker-tide65-qmk-via?variant=48165728616756)
+* [Epomaker Tide75 QMK/VIA](https://epomaker.com/products/epomaker-tide75-qmk-via?variant=48165716459828)
+* [EPOMAKER EK21](https://epomaker.com/products/epomaker-ek21)
 * [Keychron K7](https://www.keychron.com/pages/keychron-k7-wireless-mechanical-keyboard)
 * [Nintendo 64 controller for Switch](https://www.nintendo.com/store/products/nintendo-64-controller/)
 * [Raspberri Pi3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
@@ -38,7 +41,6 @@ You can support me financially through these means
 
 ### Superman
 * [Superman: the Movie Premium Format Figurine](https://www.sideshow.com/collectibles/dc-comics-superman-the-movie-sideshow-collectibles-300759) by Sideshow
-* [Superman: the Mechanical Monsters Box-Set](https://www.bigbadtoystore.com/Product/VariationDetails/157966)
 * [Play Kai Arts figure](https://www.imaginationhobby.com/en/dc-comics-variant-no-6-superman-9-inch-action-figure-play-arts-kai-square-enix-product-opened-sold-in-store-en.html)
 
 ### Books
@@ -51,6 +53,7 @@ You can support me financially through these means
 * [PM Press](pmpress.org)
 * [The Arabs from Alexander the Great until the Islamic Conquests](https://www.jadaliyya.com/Details/43125/Ayad-Al-Ani,-The-Arabs-from-Alexander-the-Great-until-the-Islamic-Conquests-Orientalist-Perceptions-and-Contemporary-Conflicts-New-Texts-Out-Now): Orientalist Perceptions and Contemporary Conflicts - by Ayad Al-Ani
 * [The Politics of Frida Kahlo](https://www.bookdepository.com/Politics-Frida-Kahlo-Fernando-Meisenhalter/9781719915670) -  by Fernando Meisenhalter
+* [How Infrastructure Works](https://www.penguinrandomhouse.com/books/612711/how-infrastructure-works-by-deb-chachra/)
 * [Islam for the Politically Incorrect](http://www.gilgamesh-publishing.co.uk/islam-for-the-politically-incorrect.html)
 
 #### Fiction
@@ -60,6 +63,7 @@ You can support me financially through these means
 * [Hijab and Red Lipstick](https://www.hashtagpress.co.uk/product-page/hijab-and-red-lipstick-by-yousra-imran)
 * [As Long as the Lemon Trees Grow](https://shop.librairieleuguelionne.com/item/oR7uwsLR1Xt2l5QaMh1fgg)
 * [I Swear Somewhere This Works](https://shop.librairieleuguelionne.com/item/MykcUDJ8lhtY4zUVAU2f6w)
+* [The Great When](https://www.waterstones.com/book/the-great-when/alan-moore/9781526682871) - Alan Moore
 * [Son of the Storm](https://www.indiebound.org/book/9780316428941) - Suyi Davies Okungbowa
 * [The Years of Rice and Salt](https://www.kimstanleyrobinson.info/node/345)
 * [The Raven Tower](https://www.kobo.com/ca/en/ebook/the-raven-tower)
@@ -67,8 +71,10 @@ You can support me financially through these means
 * [Titanium Noir](https://www.penguinrandomhouse.com/books/710281/titanium-noir-by-nick-harkaway/)
 * [Breakable Things](https://undertowpublications.com/shop/breakable-things)
 * [The Eternaut](https://www.fantagraphics.com/products/the-eternaut)
+* [In the Shadow of the Prophet](https://www.shadowoftheprophet.com/)
+* [A Master of Djinn](https://pdjeliclark.com/a-master-djinn/)
 
-#### Game Development:
+#### Game Development
 * [ Everything to Play For:How Videogames Are Changing the World](https://www.versobooks.com/en-ca/products/3086-everything-to-play-for)
 * [Sega Dreamcast: Collected Works](https://readonlymemory.vg/shop/book/sega-dreamcast-collected-works/)
 * [Arcade Game Typography](https://readonlymemory.vg/shop/book/arcade-game-typography/)
@@ -86,15 +92,20 @@ You can support me financially through these means
 * [Kama Sutra](https://www.penguinrandomhouse.com/books/310597/kama-sutra-by-vatsyayana/9780143106593) - New translation by Aditya Narayan Dhairyasheel Haksar
 * [La révolution du plaisir](https://www.kobo.com/ca/en/ebook/la-revolution-du-plaisir-1)
 * [Love Not Given Lightly](https://www.kobo.com/ca/en/ebook/love-not-given-lightly-1)
+* [Arrive in my Hands](https://store.silversprocket.net/en-ca/products/arrive-in-my-hands-queer-erotic-comics-by-trinidad-escobar)
 
 #### Cooking
 * [The Way of Chai](https://www.thewayofchai.com/)
 * [The Pain d'Avignon Baking Book](https://drawnandquarterly.leslibraires.ca/livres/the-pain-d-avignon-baking-book-uliks-fehmiu-9780525536116.html)
 
+#### Photography
+[Myriam Boulos: What’s Ours](https://aperture.org/books/myriam-boulos-whats-ours/)
+
 #### Other
 * [As Long As You Need](https://www.thomasnelson.com/p/as-long-as-you-need/)
 * [Arabic Typography History and Practice](https://www.niggli.ch/en/produkt/arabic-typography/)
 * [Persian Archery and Swordsmanship: Historical Martial Arts of Iran](http://www.moshtaghkhorasani.com/books/persian-archery-and-swordsmanship/)
+* [The Beautiful Garden of the Merit of Abu Bakr al-Siddiq رضي الله عنه](https://imamghazali.co/products/abu-bakr-40-hadith)
 * [TED Book: Broken Spaces & Outer Places](https://www.ted.com/read/ted-books/ted-books-library/broken-spaces-outer-places)
 * [The Ends of the World](https://www.kobo.com/ca/en/ebook/the-ends-of-the-world) -  Volcanic Apocalypses, Lethal Oceans, and Our Quest to Understand Earth's Past Mass Extinctions by Peter Brannen
 * [History of the Arabs before Islam]() - Jawad Ali
@@ -106,6 +117,8 @@ You can support me financially through these means
 
 ### Clothing
 * [Be humble, but let motherf\*ckers know](https://embattledclothing.com/collections/mb-universe/products/be-humble-moon-white-tank-top) tank top
+* [Reshoevn8r signature kit](https://reshoevn8r.ca/products/signature-shoe-cleaning-kit-solution-brush-bag-trees-microfiber-re8-sig-kit)
+* [De Conte Boardshorts](https://www.truetoneswim.com/en-ca/products/de-conte-boardshorts)
 
 ### Music
 * [Sekiro: Shadows Die Twice OST](https://www.amazon.co.jp/dp/B0828Q36G9)
