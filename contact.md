@@ -6,7 +6,7 @@ Want to reach me? You can do so via:
 
 <div class="contact" markdown="1">
 * [<i class="fas fa-envelope"></i> Email](mailto:{{ site.email }})
-* [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/mstfacmly)
+* [<i class="fab fa-bluesky"></i> Bluesky](https://bsky.app/profile/mstfacmly.bsky.social)
 * [<i class="fab fa-mastodon"></i> Mastodon](https://mastodon.social/@mstfacmly)
 </div>
 
