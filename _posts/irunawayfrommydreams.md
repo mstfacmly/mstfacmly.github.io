@@ -1,3 +1,10 @@
+---
+layout: post
+title: i run away from my dreams
+tags: [short story]
+---
+
+
 “Heart rate's normal, and your breathing's just fine” said the doctor as he sat in front of me. “Look straight ahead, and tell me”, he added as he shone his light in my eye, “are you sleeping well?”
 
 ---
