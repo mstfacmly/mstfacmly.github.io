@@ -1,7 +1,9 @@
 ---
-layout: post
 title: infatuation
 ---
-infatuation is a funny thing:<br>
-    a stranger takes residence in your mind<br>
-  and i welcome their presence
+
+infatuation is a funny thing:
+
+    a stranger takes residence in your mind
+
+  and you welcome their presence
