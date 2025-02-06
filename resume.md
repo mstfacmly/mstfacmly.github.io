@@ -48,16 +48,9 @@ Currently employed at {{ site.employer }}
 * {{ langs -}}
 {% endcomment %}
 
-### Games
+## Games
 
-#### Analytics QA
-
-* Various Projects
-  * Quering SQL tables to validate the data is correct
-  * Knowledge transfer sessions
-  * Confluence documentation writing and updates
-
-#### Development
+### Development
 
 * [الأخرة (in development)](https://studioslune.com/projects/alakhira) (Website down) - 
   * Game Design
@@ -70,47 +63,58 @@ Currently employed at {{ site.employer }}
 * [FASCball](https://mstfacmly.itch.io/fascball) 
   * Game design
   * Programming
+* WB Games 2019 Internal Game Jam - Winning game jam project built in one day with a small team.
+  * Game Designer
+  * Narrative Writer 
 
-#### Tech Design
+### Tech Design
 
 * WB Games Internal Arcades Projects - Tech Designer - Small internal project. 
   * Integrated [Ink](https://www.inklestudios.com/ink/) into Unreal Engine 5, alongside various features to help the team bring their vision to life.
 
-#### Dev QA
+### Quality Assurance
+
+#### Analytics QA
+
+* Various Projects
+  * Quering SQL tables to validate the data is correct
+  * Knowledge transfer sessions
+  * Confluence documentation writing and updates
+
+#### Developement QA
 
 * [Gotham Knights](https://www.gothamknightsgame.com/en-us) 
   * Rendering DevQA - Providing first point of contact support to the rendering team
     * Providing with direct support to engine issues for the developers
-    * Tasks include daily reports, preflight testing, performance captures
-      * Unreal engine tools, Telemetry, XBOX GDK, and PS5 Razor CPU/GPU
+    * Tasks include daily reports, preflight testing, and performance captures using Unreal Engine, Telemetry, XBOX GDK, and PS5 Razor CPU/GPU
   * Promotion team - Assuring Engine stability & functionality
 
-#### FQA
+#### Functionality QA
 
-* [LEGO Star Wars: The Skywalker Saga](https://www.starwars.com/games-apps/lego-star-wars-the-skywalker-saga) - Functionality QA tester - Creating and updating productivity aids which helped simplify the workflow for other testers
-* WB Games 2019 Internal Game Jam - Game Designer, Narrative Writer - Winning game jam project built in one day with a small team.
-* Project Phoenix - Functionality QA tester - 3C Pod lead
+* [LEGO Star Wars: The Skywalker Saga](https://www.starwars.com/games-apps/lego-star-wars-the-skywalker-saga)
+  * Creating and updating productivity aids which helped simplify the workflow for other testers
+* Project Phoenix - 3C Pod lead
   * Creating and assigning test cases
   * Direct communication with the designers to assess their testing needs and provide feedback as needed
 
-#### Miscaleneous
+### Miscaleneous
 
 * [Sig: the City Between](https://genesisoflegend.com/products/sig) - Interior Artwork
 * [The Other Room](http://minorityvr.com) - Game and Narrative Consultant
 
-### Writing
+## Writing
 
-#### In print
+### In print
 * [Fourrer Le Feu](https://leslibraires.ca/livres/fourrer-le-feu-marjolaine-beauchamp-9782924682036.html) - Prologue
 * [Grammaire Rebelle](https://www.facebook.com/events/290536951728803/) - Small snippet 
 
-#### Online
+### Online
 
 * [Medium]({{ site.medium }}) - General writing
 * [Multijoueur](https://multijoueur.ca/author/mchamli/) - Writer (Reviews, Op-Eds)
 * [Geekbecois](https://geekbecois.com/author/moustafa/) - Collaborator (Reviews, Op-Eds, journalistic blurbs)
 
-#### Web Design
+## Web Design
 
 * [This website](https://github.com/mstfacmly/mstfacmly.github.io/) - This page's GitHub repo
 * [Memphis Feminist Collective](http://memphisfeministcollective.org/) - Completing the site's setup & added extra CSS rules
