@@ -17,17 +17,21 @@ You can support me financially through these means
 * [Austrian Audio Hi-X15](http://economik.com/austrian-audio/hi-x15/)
 * [Jonas Blade 8" Chef's knife](https://jonasblade.com/product/8-chefs-knife/)
 * [Tokuseï Nobunaga, Santoku 180mm](https://www.lemouleur.com/couteaujaponais/tokusei-nobunaga-gyuto-180)
+* [Hori Fighting Stick α](https://stores.horiusa.com/fighting-stick-designed-for-xbox-series-x-s-xbox-one/)
 * [Wacom Cintiq](https://wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-24)
 * [Epomaker Tide65 QMK/VIA](https://epomaker.com/products/epomaker-tide65-qmk-via?variant=48165728616756)
 * [Epomaker Tide75 QMK/VIA](https://epomaker.com/products/epomaker-tide75-qmk-via?variant=48165716459828)
 * [EPOMAKER EK21](https://epomaker.com/products/epomaker-ek21)
+* [Keychron K2 HE](https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-keyboard)
 * [Keychron K7](https://www.keychron.com/pages/keychron-k7-wireless-mechanical-keyboard)
 * [Nintendo 64 controller for Switch](https://www.nintendo.com/store/products/nintendo-64-controller/)
+* [Nintendo GameCube controller for Switch](https://www.nintendo.com/store/products/gamecube-controller/)
 * [Raspberri Pi3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
 * [Satiator](https://www.satiator.net/Satiator_p_12.html)
 * [WingmanXB](https://shop.brookaccessory.com/en/products/wingman_xb)
 * [Luke Light for Deltof](https://www.thelukelight.com/collections/frontpage/products/white-tone-usb-light-kit-for-detolf-cabinet)
 * [Bertello Outdoor Pizza Oven](https://ca.bertello.com/collections/products)
+* [Nala Bars Combo](https://nalamoves.shop/products/nala-bars-combo)
 {%comment%}
 * [GuliKit Switch Joycon replacement](https://www.amazon.ca/dp/B0BPS1ZW1H)
 {%endcomment%}
@@ -42,6 +46,7 @@ You can support me financially through these means
 ### Superman
 * [Superman: the Movie Premium Format Figurine](https://www.sideshow.com/collectibles/dc-comics-superman-the-movie-sideshow-collectibles-300759) by Sideshow
 * [Play Kai Arts figure](https://www.imaginationhobby.com/en/dc-comics-variant-no-6-superman-9-inch-action-figure-play-arts-kai-square-enix-product-opened-sold-in-store-en.html)
+* [Tanuki Figures 3D Model for print](https://www.patreon.com/TanukiFigures/shop/superman-toon-990333)
 
 ### Books
 
@@ -73,6 +78,9 @@ You can support me financially through these means
 * [The Eternaut](https://www.fantagraphics.com/products/the-eternaut)
 * [In the Shadow of the Prophet](https://www.shadowoftheprophet.com/)
 * [A Master of Djinn](https://pdjeliclark.com/a-master-djinn/)
+
+#### Poetry
+* [Ancestral Daughter](https://darajapress.com/publication/ancestral-daughter)
 
 #### Game Development
 * [ Everything to Play For:How Videogames Are Changing the World](https://www.versobooks.com/en-ca/products/3086-everything-to-play-for)
