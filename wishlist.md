@@ -79,9 +79,6 @@ You can support me financially through these means
 * [In the Shadow of the Prophet](https://www.shadowoftheprophet.com/)
 * [A Master of Djinn](https://pdjeliclark.com/a-master-djinn/)
 
-#### Poetry
-* [Ancestral Daughter](https://darajapress.com/publication/ancestral-daughter)
-
 #### Game Development
 * [ Everything to Play For:How Videogames Are Changing the World](https://www.versobooks.com/en-ca/products/3086-everything-to-play-for)
 * [Sega Dreamcast: Collected Works](https://readonlymemory.vg/shop/book/sega-dreamcast-collected-works/)
@@ -92,6 +89,7 @@ You can support me financially through these means
 * [Game Design Workshop](https://www.gamedesignworkshop.com/)
 * [A Playful Production Process](https://www.playfulproductionprocess.com/)
 * [Writing for games](https://www.writingfor.games/)
+* [Godot Shaders Bible](https://jettelly.com/store/the-godot-shaders-bible)
 
 #### Sexuality
 * [We Wrote In Symbols](https://saqibooks.com/books/saqi/we-wrote-in-symbols/)
@@ -124,6 +122,7 @@ You can support me financially through these means
 * [Sideshow](https://www.sideshow.com/wishlist/beb6a66c456fd252087c6d99391f36a8)
 
 ### Clothing
+* [Qashabeyyeh](https://qashabeyyeh.co/collections/hoodies-and-jackets) - jackeyt
 * [Be humble, but let motherf\*ckers know](https://embattledclothing.com/collections/mb-universe/products/be-humble-moon-white-tank-top) tank top
 * [Reshoevn8r signature kit](https://reshoevn8r.ca/products/signature-shoe-cleaning-kit-solution-brush-bag-trees-microfiber-re8-sig-kit)
 * [De Conte Boardshorts](https://www.truetoneswim.com/en-ca/products/de-conte-boardshorts)
