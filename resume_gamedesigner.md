@@ -11,7 +11,7 @@ title: Résumé
 
 <section class="resume" markdown="1">
 
-## Game designer with a love of the marriage of mechanics and narrative. Worked on some of 2023's biggest gams such as LEGO Star Wars: the Skywalker Saga, and Gotham Knights. Personal projects have included projects found on Itch.io as well as through small game jams.
+**Game designer with a love of the marriage of mechanics and narrative. Worked on some of 2023's biggest gams such as LEGO Star Wars: the Skywalker Saga, and Gotham Knights. Personal projects have included projects found on Itch.io as well as through small game jams.**
 
 ### Game Design
 
