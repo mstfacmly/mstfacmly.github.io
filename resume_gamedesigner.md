@@ -19,9 +19,9 @@ My skills have been honed over the years by developing a diverse range of skills
 
 #### Design
 
-* [spider-bot]() - Code test to implement real-time IK rigging for potential use on other projects, as well as modular and procedural generation of legs and animation.
+* [spider-bot](https://github.com/mstfacmly/spider_ik) - Code test to implement real-time IK rigging for potential use on other projects, as well as modular and procedural generation of legs and animation.
 * [American Roulette]() - (WIP) - Short first person horror game built around a simple premise.
-* [Space Vulpes]() - On-rails shooter in the style of retro Super FX games.
+* [Space Vulpes](https://github.com/mstfacmly/SpaceVulpes) (WIP) - On-rails shooter in the style of retro Super FX games.
 * **WB Games 2019 Internal Game Jam** - Game Designer, Narrative Writer - Winning game jam project built in one day with a small team. The project won first place for adhering to the intended ideas, while executing them with simplicity and fun in mind.
 * [FASCball](https://mstfacmly.itch.io/fascball) - A short arcade-style game made during a game jam. I created and set up the game's rules, how points are scored, and what gamplay modifiers can occur. Recently updated for code optimisation and the potential implementation of new modes and rules.
 * [The Other Room](http://minorityvr.com) - Game and Narrative Consultant - I was brought in as a consultant on the games' level designs, and assisted with minor changes which would provide with a challenge to the player while keeping them invested in the story of the game.
