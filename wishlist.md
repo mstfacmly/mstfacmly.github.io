@@ -14,6 +14,7 @@ You can support me financially through these means
 
 ### Hardware
 
+* [SajVoyage](https://sajvoyage.com/products/tetas-full-kit?variant=51913728754000)
 * [Talman Acoustic Guitar](https://www.ibanez.com/na/products/detail/tcy12e_2y_09.html)
 * [Iwata Revolution HP-CR airbrush](https://www.coastairbrush.com/proddetail.asp?prod=Revolution_HP-CR) + [Coast Airbrush Battery Operated Compressor](https://www.coastairbrush.com/proddetail.asp?prod=Coast_Airbrush_Battery_Operated_Compressor)
 * [Spark Mini](https://ca.positivegrid.com/products/spark-mini?variant=43337981984802) - Portable guitar amp
@@ -56,6 +57,7 @@ You can support me financially through these means
 * [Tanuki Figures 3D Model for print](https://www.patreon.com/TanukiFigures/shop/superman-toon-990333)
 * [Superman: the Movie Premium Format Figurine](https://www.sideshow.com/collectibles/dc-comics-superman-the-movie-sideshow-collectibles-300759) by Sideshow
 * [Play Kai Arts figure](https://www.imaginationhobby.com/en/dc-comics-variant-no-6-superman-9-inch-action-figure-play-arts-kai-square-enix-product-opened-sold-in-store-en.html)
+* [The Joe Shuster Story: The Artist Behind Superman](https://www.abebooks.com/Joe-Shuster-Story-Artist-Behind-Superman/32283009669/bd)
 
 ### Books
 
@@ -73,6 +75,7 @@ You can support me financially through these means
 * [The Arabs from Alexander the Great until the Islamic Conquests](https://www.jadaliyya.com/Details/43125/Ayad-Al-Ani,-The-Arabs-from-Alexander-the-Great-until-the-Islamic-Conquests-Orientalist-Perceptions-and-Contemporary-Conflicts-New-Texts-Out-Now): Orientalist Perceptions and Contemporary Conflicts - by Ayad Al-Ani
 * [The Politics of Frida Kahlo](https://www.bookdepository.com/Politics-Frida-Kahlo-Fernando-Meisenhalter/9781719915670) -  by Fernando Meisenhalter
 * [How Infrastructure Works](https://www.penguinrandomhouse.com/books/612711/how-infrastructure-works-by-deb-chachra/)
+* [Amusing Ourselves To Death](https://www.penguinrandomhouse.ca/books/297276/amusing-ourselves-to-death-by-neil-postman/9780143036531) - Neil Postman
 * [Islam for the Politically Incorrect](http://www.gilgamesh-publishing.co.uk/islam-for-the-politically-incorrect.html)
 
 
@@ -87,6 +90,7 @@ You can support me financially through these means
 * [The Great When](https://www.waterstones.com/book/the-great-when/alan-moore/9781526682871) - Alan Moore
 * [Son of the Storm](https://www.indiebound.org/book/9780316428941) - Suyi Davies Okungbowa
 * [The Years of Rice and Salt](https://www.kimstanleyrobinson.info/node/345)
+* [Shoeshine Boy & Cigarette Girl](https://www.starsandsabers.com/books/shoeshine-boy-cigarette-girl/)
 * [The Raven Tower](https://www.kobo.com/ca/en/ebook/the-raven-tower)
 * [Snow White Learns Witchcraft](https://www.kobo.com/ca/en/ebook/snow-white-learns-witchcraft-stories-and-poems)
 * [Titanium Noir](https://www.penguinrandomhouse.com/books/710281/titanium-noir-by-nick-harkaway/)
@@ -145,6 +149,7 @@ You can support me financially through these means
 
 ### Collectibles
 * [Sideshow](https://www.sideshow.com/wishlist/beb6a66c456fd252087c6d99391f36a8)
+* [Qawm](https://www.anatir.com/products/qawim-resist-wall-art) - Art Print
 
 ### Clothing
 * [Qashabeyyeh](https://qashabeyyeh.co/collections/hoodies-and-jackets) - jackeyt
