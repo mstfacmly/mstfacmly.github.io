@@ -11,11 +11,11 @@ title: Résumé
 
 <section class="resume" markdown="1">
 
-**Game designer with a love of the marriage of mechanics and narrative. 
+**Game designer with a love of the marriage of mechanics and narrative.**
 
 Prior projects have included LEGO Batman: Legacy of the Dark Knight, Mortal Kombat 1, LEGO Star Wars: the Skywalker Saga, and Gotham Knights. 
 
-My personal projects have included projects found on Itch.io as well as through small game jams.**
+My personal projects have included projects found on Itch.io as well as through small game jams.
 
 ### Game Design
 
