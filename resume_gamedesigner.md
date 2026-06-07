@@ -28,7 +28,10 @@ My skills have been honed over the years by developing a diverse range of skills
 * [الأخرة](https://studioslune.com/projects/alakhira) (Website in the process of restoration) - Game, Narrative, and Art Direction, Character Designer, 3D Artist, Animator, Programmer. A 3D action game about the end of the world.
 * **WB Games Montreal Internal Arcades Projects** - Tech Designer - Internal project. BP optimisation and modulation, and [Ink](https://www.inklestudios.com/ink/) integration into Unreal Engine 5.
 
-### Programming Languages 
+#### Programming 
+
+Capable of coding using the following languages:
+
 {% assign prog = site.proglangs | remove: '& Web languages' | remove: '(' | remove: ')' | split: ',' %}
 {%- for langs in prog -%}
     {%- if langs != prog.last -%}
@@ -42,9 +45,11 @@ My skills have been honed over the years by developing a diverse range of skills
 
 My years in QA have provided me with a better understanding in the value of the various fields of QA, and ensure that I consider QA as early as possible into a project.
 
-* **Analytics QA** — Advanced SQL functions, queries and procedures, which have enabled the team to get faster overviews of the data processed for projects such as [LEGO Batman : Legacy of the Dark Knight](https://legobatmangame.com/), [Mortal Kombat 1](https://www.mortalkombat.com/), and [Suicide Squad: Kill the Justice League](https://www.suicidesquadgame.com/).
-* [Gotham Knights](https://www.gothamknightsgame.com/en-us) - February 2021 — July 2023 - Rendering DevQA - Validating the rendering tools and assets. Assisted in finding optimal solutions for next-generation rendering problems relating to real-time ray-traced reflections.
-* Functionality QA tester
+* **Analytics QA** — July 2024 - Current 
+    * Advanced SQL functions, queries and procedures, which have enabled the team to get faster overviews of the data processed for projects such as [LEGO Batman : Legacy of the Dark Knight](https://legobatmangame.com/), [Mortal Kombat 1](https://www.mortalkombat.com/), and [Suicide Squad: Kill the Justice League](https://www.suicidesquadgame.com/).
+* DevQA - February 2021 — July 2023 
+    * [Gotham Knights](https://www.gothamknightsgame.com/en-us) - Rendering team. Validating the rendering tools and assets. Assisted in finding optimal solutions for next-generation rendering problems relating to real-time ray-traced reflections.
+* Functionality QA tester — July 2019 —  February 2021
     * [LEGO Star Wars: The Skywalker Saga](https://www.starwars.com/games-apps/lego-star-wars-the-skywalker-saga) — Creating and updating productivity aids which helped simplify the workflow for other testers
     * **Unnamed project** - 3C Pod lead - Creating and assigning test cases, direct communication with the designers to assess their testing needs and provide feedback as needed.
 
