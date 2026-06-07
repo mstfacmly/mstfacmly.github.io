@@ -32,9 +32,8 @@ My skills have been honed over the years by developing a diverse range of skills
 
 My years in QA have provided me with a better understanding in the value of the various fields of QA, and ensure that I consider QA as early as possible into a project.
 
-* Analytics QA - Advanced SQL functions and queries, which have enabled the team to get faster overviews of the data processed for projects such as Dinner and K1.
+* Analytics QA - Advanced SQL functions and queries, which have enabled the team to get faster overviews of the data processed for projects such as LEGO Batman — Legacy of the Dark Knight, Mortal Kombat 1, and Suicide Squad Kill the Justice League.
 * [Gotham Knights](https://www.gothamknightsgame.com/en-us) - February 2021 - July 2023 - Rendering DevQA - Validating the rendering tools and assets. Assisted in finding optimal solutions for next-generation rendering problems relating to real-time ray-traced reflections.
-* QA Analytics - Various projects. The experience on the Analytics team shows me how data can be used to better understand how a player experiences a game.
 * [LEGO Star Wars: The Skywalker Saga](https://www.starwars.com/games-apps/lego-star-wars-the-skywalker-saga) - Functionality QA tester - Creating and updating productivity aids which helped simplify the workflow for other testers
 * **Unnamed project** - Functionality QA tester - 3C Pod lead - Creating and assigning test cases, direct communication with the designers to assess their testing needs and provide feedback as needed.
 
