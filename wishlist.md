@@ -17,6 +17,7 @@ You can support me financially through these means
 * [SajVoyage](https://sajvoyage.com/products/tetas-full-kit?variant=51913728754000)
 * [Talman Acoustic Guitar](https://www.ibanez.com/na/products/detail/tcy12e_2y_09.html)
 * [Iwata Revolution HP-CR airbrush](https://www.coastairbrush.com/proddetail.asp?prod=Revolution_HP-CR) + [Coast Airbrush Battery Operated Compressor](https://www.coastairbrush.com/proddetail.asp?prod=Coast_Airbrush_Battery_Operated_Compressor)
+* [Line 6 Powercab CL 212](https://www.long-mcquade.com/482145/Guitars/Amps/Line-6/Powercab-CL-212-Guitar-Speaker-System.htm)
 * [Spark Mini](https://ca.positivegrid.com/products/spark-mini?variant=43337981984802) - Portable guitar amp
 * [Austrian Audio Hi-X15](http://economik.com/austrian-audio/hi-x15/)
 * [Jonas Blade 8" Chef's knife](https://jonasblade.com/product/8-chefs-knife/)
@@ -28,6 +29,7 @@ You can support me financially through these means
 * [Bertello Outdoor Pizza Oven](https://ca.bertello.com/collections/products)
 * [Nala Bars Combo](https://nalamoves.shop/products/nala-bars-combo)
 * [Raspberri Pi3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus)
+* [Osmo Mobile 7p](https://store.dji.com/ca/product/osmo-mobile-7p)
 {%comment%}
 * [GuliKit Switch Joycon replacement](https://www.amazon.ca/dp/B0BPS1ZW1H)
 * [WingmanXB](https://shop.brookaccessory.com/en/products/wingman_xb)
@@ -115,6 +117,21 @@ You can support me financially through these means
 * [Writing for games](https://www.writingfor.games/)
 * [Godot Shaders Bible](https://jettelly.com/store/the-godot-shaders-bible)
 
+#### Cooking
+
+* [Shou Botbokh Bukra Cards](https://fromlebanon.co/collections/lebanese-breakfast/products/shou-botbokh-bukra-cards)
+* [The Way of Chai](https://www.thewayofchai.com/)
+* [The Pain d'Avignon Baking Book](https://drawnandquarterly.leslibraires.ca/livres/the-pain-d-avignon-baking-book-uliks-fehmiu-9780525536116.html)
+
+#### Fashion
+
+* [Pattern Magic – Stretch Fabrics](https://atelier-b.ca/en/collections/tools/products/pattern-magic-stretch-fabrics)
+
+#### Photography
+
+* [Myriam Boulos: What’s Ours](https://aperture.org/books/myriam-boulos-whats-ours/)
+* [Moving Pictures Painted](https://rep.club/products/moving-pictures-painted)
+
 #### Sexuality
 
 * [We Wrote In Symbols](https://saqibooks.com/books/saqi/we-wrote-in-symbols/)
@@ -124,16 +141,7 @@ You can support me financially through these means
 * [La révolution du plaisir](https://www.kobo.com/ca/en/ebook/la-revolution-du-plaisir-1)
 * [Love Not Given Lightly](https://www.kobo.com/ca/en/ebook/love-not-given-lightly-1)
 * [Arrive in my Hands](https://store.silversprocket.net/en-ca/products/arrive-in-my-hands-queer-erotic-comics-by-trinidad-escobar)
-
-#### Cooking
-
-* [Shou Botbokh Bukra Cards](https://fromlebanon.co/collections/lebanese-breakfast/products/shou-botbokh-bukra-cards)
-* [The Way of Chai](https://www.thewayofchai.com/)
-* [The Pain d'Avignon Baking Book](https://drawnandquarterly.leslibraires.ca/livres/the-pain-d-avignon-baking-book-uliks-fehmiu-9780525536116.html)
-
-#### Photography
-
-* [Myriam Boulos: What’s Ours](https://aperture.org/books/myriam-boulos-whats-ours/)
+* [If Not, Winter](https://www.penguinrandomhouse.ca/books/160692/if-not-winter-by-sappho-translated-by-anne-carson/) - Fragments of Sappho
 
 #### Other
 
